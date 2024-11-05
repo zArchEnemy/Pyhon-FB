@@ -84,3 +84,58 @@
 ответ на 85-95 страницы https://t.me/c/1937296927/1/16676
 
 
+Список вопросов к видео https://www.youtube.com/watch?v=Si9MfV8uJ-0 (НАСТРОЙКА VSCODE, перенос строк, линтеры, работа с ячейками):
+1. Как включить автосохранение данных?
+2. Как настроить перенос строки? 
+3. Сколько символо по pep8 разрешено на строке?
+4. Какие способы переноса строк показаны в видео:
+
+4.1 Строки с использованием обратного слэша (\)
+
+`string_continued = "This is a long string that we want to " \
+                   "split across multiple lines."
+print(string_continued) `
+
+4.2 Тройные кавычки (''' или """) 
+
+multi_line_string = """This is a string that spans
+multiple lines. You can write freely
+and it will keep the line breaks."""
+print(multi_line_string)
+
+4.3 Создание списка строк и объединение с помощью join
+
+strings = [
+    "This is the first line.",
+    "This is the second line.",
+    "This is the third line."
+]
+result = "\n".join(strings)  # Используем перенос строк '\n'
+print(result)
+
+4.4 Использование круглых скобок для продолжения строки
+long_string = (
+    "This is a very long string that I would like to "
+    "continue on the next line."
+)
+print(long_string)
+
+4.5 Форматированные строки (f-строки) с использованием скобок
+letter_a = 5
+letter_b = 6
+product_ab = letter_a * letter_b
+
+message = (
+    f"when {letter_a} is multiplied by {letter_b}, "
+    f"the result is {product_ab}"
+)
+print(message)
+
+4.6 Сложение строк с помощью +
+
+string_part1 = "This is the first part, "
+string_part2 = "and this is the second part."
+full_string = string_part1 + string_part2
+print(full_string)
+
+5. 
