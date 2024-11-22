@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/5874d863-39c4-49cb-a1fc-660e2918d09f)
 
 1) создать новый репозиторий, назовите его "yourlogingit-git" в https://github.com/SENATOROVAI 
 
