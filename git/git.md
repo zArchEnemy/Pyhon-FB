@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b6eb9ec-83cb-4602-908a-38d7e556de22)
+
 1) создать новый репозиторий, назовите его "yourlogingit-git" в https://github.com/SENATOROVAI 
 
 2) в репозитории создать файл git.ipynb , законспектировать туда команды и потом выполнить все команды в терминале, с новым репозиторием  235-262стр https://t.me/c/1937296927/1/16676 
