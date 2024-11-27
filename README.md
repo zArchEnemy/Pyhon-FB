@@ -1,5 +1,2 @@
 .
-sss
- 
-  
-sffse
+ss
