@@ -180,6 +180,14 @@
 
 1. **Обновите ветки**
    - Если в чате GitHub вас просят "обновите ветки", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
+   - Если возникает конфликт при слиянии
+     ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
+   - Нажимаем Resolve
+   - Устраняем конфликт вручную, путём вырезания ненужных строк
+     ![изображение](https://github.com/user-attachments/assets/ac663b18-8974-4fdc-8efd-3193164b2285)
+   - Нажимаем Mark as resolved
+     ![изображение](https://github.com/user-attachments/assets/95875526-f125-47c9-91d5-8e9f39ed4dce)
+  
 
 ![image](https://github.com/user-attachments/assets/e027f42e-a66f-42db-a52a-3a6319903ee8)
 ### Дальнейшее обучение и портфолио
