@@ -8,6 +8,10 @@
 2. **Kaggle**
    - Visit [Kaggle](https://www.kaggle.com/).
    - Click on "Sign up" and create an account.
+   - Confirm your phone number on Kaggle (RELEVANT FOR RUSSIA) [Video Guide](https://youtu.be/fcBOlOl__T0)
+   - Use this number for Kaggle: [365sms.ru](https://365sms.ru/)
+
+   - Obtain Contributor Status on Kaggle: [Video Guide](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
    - Share your Kaggle profile link in the chat: [Telegram Chat](https://t.me/c/1937296927/832).
 
 3. **ODS.AI**
@@ -39,6 +43,7 @@
 
 If you have any questions or need further assistance, feel free to ask!
 
+
 ### Регистрация аккаунтов
 
 1. **GitHub**
@@ -49,6 +54,10 @@ If you have any questions or need further assistance, feel free to ask!
 2. **Kaggle**
    - Посетите [Kaggle](https://www.kaggle.com/).
    - Нажмите "Sign up" и создайте аккаунт.
+   - Подтвердите номер телефона на Kaggle (АКТУАЛЬНО ДЛЯ РФ) [Видео инструкция](https://youtu.be/fcBOlOl__T0)
+   - Используйте этот номер для Kaggle: [365sms.ru](https://365sms.ru/)
+
+   - Получите статус контрибьютора на Kaggle: [Видео инструкция](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832).
 
 3. **ODS.AI**
