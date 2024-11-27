@@ -11,6 +11,7 @@
    - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/3602) с:
      - Вашим логином в Telegram
      - Ссылкой на ваш профиль GitHub
+     - в посте добавьте хэштеги #githubaccount #UsernameTelegram
      
 1. **Создайте новую ветку**
    - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin).
@@ -40,11 +41,13 @@
    - pip install pre-commit
    - pre-commit install
    - pre-commit run --all-files
-     
-     
 
-   
-
+   - Документация по линтерам:
+   - Pylint https://pylint.pycqa.org
+   - Pydocstyle https://docs.astral.sh/ruff/rules/#pydocstyle-d
+   - Flake8 https://flake8.pycqa.org/en/latest/index.html
+   - Mypy https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#variables 
+     
 7. **Пришлите скриншот вашего терминала**
    - Сделайте полный скриншот вашего терминала на весь экран и пришлите в [чат](https://t.me/c/1937296927/3602) пример скриншота
    
@@ -57,7 +60,8 @@
    - [Бонусы](https://t.me/c/1937296927/25305/25306) 
 
 10. **Ознакомиться с системой помощи в комьюнити**
-   - [Помощь](https://t.me/c/1937296927/2415/23729)
+   - [Инструкция помощь](https://t.me/c/1937296927/2415/23729)
+   - [Практика запроса помощи или сообщения о проблеме](https://youtu.be/wR3gXOiRm10)
 
 11. **Ознакомиться с отменой занятий**
    - [Отмена занятий](https://t.me/c/1937296927/26659/27648)
@@ -72,17 +76,36 @@
    - регулярно проверяйте что вас [не тегнули](https://t.me/c/1937296927/2415/25595)
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
    ![изображение](https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537)
+16. **Ответьте на квизы и пришлите пул реквест**
+   - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
+   - [pull requests](https://www.youtube.com/live/Fdhy4W4U4os)
+17. **Внимательно прочитайте инструкцию по  git**
+   - [git](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/git/intro_to_git.ipynb)
+18. **Приступите к практике по git**
+   - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
+   - [git course](https://learngitbranching.js.org/?locale=ru_RU)
+19. **Практика  Github**
+   - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
+   - [Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
 
-
-### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ!
+### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
 ### Дополнительная информация
 
 1. **Обновите ветки**
    - Если в чате GitHub вас просят "обновите ветки", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
-
-![image](https://github.com/user-attachments/assets/e027f42e-a66f-42db-a52a-3a6319903ee8)
-### Дальнейшее обучение
+     ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
+   - Скролим в самый низ и нажимаем зелёную кнопку "merge"   
+   - Если возникает конфликт при слиянии
+     ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
+   - Нажимаем Resolve
+   - Устраняем конфликт вручную, путём вырезания ненужных строк
+     ![изображение](https://github.com/user-attachments/assets/ac663b18-8974-4fdc-8efd-3193164b2285)
+   - Нажимаем Mark as resolved
+     ![изображение](https://github.com/user-attachments/assets/95875526-f125-47c9-91d5-8e9f39ed4dce)
+  
+### Дальнейшее обучение и портфолио
+- [Портфолио](https://youtu.be/CQ3J2nCkBSo?si=Sy8wc6IWHDahz3KY)
 
 - Все дальнейшее обучение и вклад будут осуществляться в этом репозитории.
 
