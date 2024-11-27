@@ -122,4 +122,5 @@
 
 ![изображение](https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928)
 
+<img width="605" alt="Screenshot 2024-11-28 at 1 32 44 AM" src="https://github.com/user-attachments/assets/5197ce8e-3486-4a44-946c-afbeb3629ddb">
 
