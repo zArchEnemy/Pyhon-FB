@@ -53,7 +53,7 @@
 ### Detailed Instructions
 
 1. **Star the Repository**
-   - Make sure you have starred the repository.
+   - Make sure you have starred the repository. https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    ![image](https://github.com/user-attachments/assets/aa4e7946-d65f-4f5f-91a2-84a1dc3bdcb4)
 
 2. **Join the Team**
