@@ -107,6 +107,27 @@
 ![image](https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4)
 <img width="1074" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/0298410e-f652-4518-a8e1-580d555ea27b">
 
+6. **Введите команды в терминал**
+   - Откройте терминал и убедитесь что там написано Data-Science-For-Beginners-from-scratch-SENATOROV
+   ![изображение](https://github.com/user-attachments/assets/c5692ba1-5029-4688-a33b-22220b1cb58a)
+
+   ![изображение](https://github.com/user-attachments/assets/6145231b-a5b4-488b-967a-5d4ed9b995a5)
+   - Затем вставьте 4 команды ниже, в терминал, по очереди, и нажмите каждый раз Enter
+   - git init
+   - pip install pre-commit
+   - pre-commit install
+   - pre-commit run --all-files
+     
+     
+
+   
+
+7. **Пришлите скриншот вашего терминала**
+   - Сделайте полный скриншот вашего терминала на весь экран и пришлите в [чат](https://t.me/c/1937296927/3602) пример скриншота
+   
+   ![изображение](https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466)
+
+
 ### Отправка изменений
 
 1. **Обновите ветки**
