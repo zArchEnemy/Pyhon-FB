@@ -30,6 +30,36 @@
 2. **Cursor**
    - Скачайте с [Cursor](https://github.com/getcursor/cursor).
    - Установите согласно предоставленным инструкциям.
+   - ![изображение](https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5)
+   - (установить плагины):
+   - ![изображение](https://github.com/user-attachments/assets/679c88db-af1a-45de-8caa-0e289701ee1d)
+
+      - ms-python.pylint
+      - ms-python.flake8
+      - ms-python.mypy-type-checker
+      - matangover.mypy
+      - ms-pyright.pyright
+      - ms-python.black-formatter
+      - njpwerner.autodocstring
+      - njqdev.vscode-python-typehint
+      - KevinRose.vsc-python-indent
+      - mintlify.document
+      - streetsidesoftware.code-spell-checker
+      - eamodio.gitlens
+      - ms-toolsai.jupyter
+      - ms-vsliveshare.vsliveshare
+      - njqdev.vscode-python-typehint
+      - EricSia.pythonsnippets3
+      - ms-pyright.pyright
+      - congyiwu.vscode-jupytext
+      - streetsidesoftware.code-spell-checker-russian
+      -  Активация русского языка
+      
+      Commands (use F1 or View -> Command Palette):
+      
+          Enable Russian Spell Checker Dictionary
+          Enable Russian Spell Checker Dictionary in Workspace
+      -  Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
 
 3. **Python (CPython)**
    - Скачайте с [CPython](https://github.com/python/cpython).
