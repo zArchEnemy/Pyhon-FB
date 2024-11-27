@@ -12,7 +12,7 @@
 1. **GitHub**
    - Перейдите на [GitHub](https://github.com/).
    - Нажмите "Sign up" и следуйте инструкциям для создания аккаунта.
-   - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602), в посте добавьте хэштеги #githubaccount #UsernameTelegram
+   - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602), в посте добавьте хэштеги @ВашЮзерНейм #githubaccount
    - Настройте Github:
    - подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
    - оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
@@ -32,7 +32,7 @@
    - Заполните профиль
    ![изображение](https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf)
 
-   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте хэштег #kaggleaccount #UsernameTelegram
+   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте хэштег #kaggleaccount @ВашЮзерНейм
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
 4. **ODS.AI**
    - Перейдите на [ODS.AI](https://ods.ai/).
