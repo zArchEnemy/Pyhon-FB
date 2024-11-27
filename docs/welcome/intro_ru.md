@@ -12,7 +12,7 @@
 1. **GitHub**
    - Перейдите на [GitHub](https://github.com/).
    - Нажмите "Sign up" и следуйте инструкциям для создания аккаунта.
-   - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602).
+   - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602), в посте добавьте хэштеги #githubaccount #UsernameTelegram
 
 2. **Kaggle**
    - [Что такое КЭГГЛ?](https://youtu.be/wL9zQczbHRs)
@@ -22,7 +22,7 @@
    - Используйте этот номер для Kaggle: [365sms.ru](https://365sms.ru/)
 
    - Получите статус контрибьютора на Kaggle: [Видео инструкция](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
-   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832).
+   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте хэштег #kaggleaccount #UsernameTelegram
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
      
 4. **ODS.AI**
