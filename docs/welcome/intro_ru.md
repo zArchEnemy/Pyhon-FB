@@ -164,7 +164,7 @@
 16. **Ответьте на квизы и пришлите пул реквест**
    - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
 17. **Внимательно прочитайте инструкцию по  git**
-   - [git](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/git/intro_to_git.ipynb
+   - [git](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/git/intro_to_git.ipynb)
 18. **Приступите к практике по git**
    - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
    - [git course](https://learngitbranching.js.org/?locale=ru_RU)
