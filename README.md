@@ -15,8 +15,12 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 
 ![image](https://github.com/user-attachments/assets/e027f42e-a66f-42db-a52a-3a6319903ee8)
 
+7) Не забудьте переключить ветку
+![image](https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4)
+<img width="1074" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/0298410e-f652-4518-a8e1-580d555ea27b">
 
 
 
 ### Дальнейшая учёба будет только в этом репозитории.  
+
   
