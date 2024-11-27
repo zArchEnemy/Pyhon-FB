@@ -157,6 +157,10 @@
    
    ![изображение](https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466)
 
+7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ваш локальный репозиторий который находится в documents/github/ваш_репозиторий, в новый репозиторий documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV,за исключением двух папок:**
+   - /Math/school_theory 
+   - /Math/calculus/theory
+
 8. **Ознакомиться с системой штрафов**
    - [Штрафы](https://t.me/c/1937296927/11810/11811)
    
