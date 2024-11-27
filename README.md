@@ -117,3 +117,6 @@
 
      
 Если у вас есть вопросы или нужна дополнительная помощь, не стесняйтесь спрашивать!
+
+<img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
+
