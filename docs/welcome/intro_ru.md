@@ -13,6 +13,12 @@
    - Перейдите на [GitHub](https://github.com/).
    - Нажмите "Sign up" и следуйте инструкциям для создания аккаунта.
    - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602), в посте добавьте хэштеги #githubaccount #UsernameTelegram
+   - Настройте Github:
+   - подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
+   - формить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
+   - выберите шаблон https://github.com/abhisheknaiidu/awesome-github-profile-readme
+   - заполните профиль
+   - ![изображение](https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926)
 
 2. **Kaggle**
    - [Что такое КЭГГЛ?](https://youtu.be/wL9zQczbHRs)
