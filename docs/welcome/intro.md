@@ -41,6 +41,13 @@
    - Download from [Conda](https://github.com/conda/conda).
    - Follow the installation instructions for your system.
 
+### Additional Resources
+
+- **Jamboard for Learning**
+  - Watch the video guide: [YouTube](https://youtu.be/8pwKgbMyfbo)
+  - Use [Canva](https://www.canva.com/) to create and share Jamboards.
+  - Send me the link to your Jamboard in a private message.
+
 If you have any questions or need further assistance, feel free to ask!
 
 
@@ -64,6 +71,8 @@ If you have any questions or need further assistance, feel free to ask!
    - Перейдите на [ODS.AI](https://ods.ai/).
    - Зарегистрируйтесь для создания аккаунта.
    - Поделитесь ссылкой на ваш профиль ODS.AI в чате: [Telegram Chat](https://t.me/c/1937296927/832).
+  
+
 
 ### Скачивание и установка программ
 
@@ -85,6 +94,11 @@ If you have any questions or need further assistance, feel free to ask!
 
 5. **Conda**
    - Скачайте с [Conda](https://github.com/conda/conda).
-   - Следуйте инструкциям по установке для вашей системы.
+   - Следуйте инструкциям по установке для вашей системы.### Дополнительные ресурсы
 
+- **Джамборд для учёбы**
+  - Посмотрите видеоинструкцию: [YouTube](https://youtu.be/8pwKgbMyfbo)
+  - Используйте [Canva](https://www.canva.com/) для создания и обмена джамбордами.
+  - Скиньте мне в личку ссылку на ваш джамборд.
+     
 Если у вас есть вопросы или нужна дополнительная помощь, не стесняйтесь спрашивать!
