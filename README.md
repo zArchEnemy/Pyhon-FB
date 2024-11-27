@@ -4,7 +4,9 @@
 3) Скачиваем на локальный компьютер, любым удобным способом
   <img width="995" alt="Screenshot 2024-11-27 at 4 01 19 AM" src="https://github.com/user-attachments/assets/51b74e3d-369b-46fa-be37-6f99c44bf587">
 4) Переносим файлы из своего репозитория в скаченный репозиторий
-5) (Актуально если качали не через гитхаб десктоп) Добавляем в Github Desktop Ваш новый репозиторий ![image](https://github.com/user-attachments/assets/9e7c76f1-04f9-4f48-a9a2-f871becf4a21)
+<p></p>
+5) (Актуально если качали не через гитхаб десктоп) Добавляем в Github Desktop Ваш новый репозиторий 
+ <img width="403" alt="Screenshot 2024-11-27 at 4 07 02 AM" src="https://github.com/user-attachments/assets/e53e0384-84ac-4219-897c-9788e640a2a1">
 
 ### Дальнейшая учёба будет только в этом репозитории.  
   
