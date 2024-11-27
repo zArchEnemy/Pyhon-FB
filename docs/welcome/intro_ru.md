@@ -12,6 +12,7 @@
    - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602).
 
 2. **Kaggle**
+   - [Что такое КЭГГЛ?](https://youtu.be/wL9zQczbHRs)
    - Посетите [Kaggle](https://www.kaggle.com/).
    - Нажмите "Sign up" и создайте аккаунт.
    - Подтвердите номер телефона на Kaggle (АКТУАЛЬНО ДЛЯ РФ) [Видео инструкция](https://youtu.be/fcBOlOl__T0)
@@ -19,8 +20,9 @@
 
    - Получите статус контрибьютора на Kaggle: [Видео инструкция](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832).
-
-3. **ODS.AI**
+   - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
+     
+4. **ODS.AI**
    - Перейдите на [ODS.AI](https://ods.ai/).
    - Зарегистрируйтесь для создания аккаунта.
    - Поделитесь ссылкой на ваш профиль ODS.AI в чате: [Telegram Chat](https://t.me/c/1937296927/832).
@@ -74,6 +76,7 @@
 3. **Python (CPython)**
    - Скачайте с [CPython](https://github.com/python/cpython).
    - Следуйте руководству по установке для вашей платформы.
+   - Повторите видео [Интерпритатор Cpython и PYPY](https://youtu.be/ooLcXygrLnU)
 
 4. **Git for Windows**
    - Скачайте с [Git for Windows](https://github.com/git-for-windows/git).
