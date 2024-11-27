@@ -15,9 +15,9 @@
    - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602), в посте добавьте хэштеги #githubaccount #UsernameTelegram
    - Настройте Github:
    - подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
-   - формить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
+   - оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
    - выберите шаблон https://github.com/abhisheknaiidu/awesome-github-profile-readme
-   - заполните профиль
+   - Повторите 5 пунктов
    - ![изображение](https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926)
 
 2. **Kaggle**
@@ -28,9 +28,12 @@
    - Используйте этот номер для Kaggle: [365sms.ru](https://365sms.ru/)
 
    - Получите статус контрибьютора на Kaggle: [Видео инструкция](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
+   - Подпишитесь на коллег https://t.me/c/1937296927/832/21039
+   - Заполните профиль
+   ![изображение](https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf)
+
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте хэштег #kaggleaccount #UsernameTelegram
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
-     
 4. **ODS.AI**
    - Перейдите на [ODS.AI](https://ods.ai/).
    - Зарегистрируйтесь для создания аккаунта.
