@@ -128,3 +128,4 @@
 
 ![изображение](https://github.com/user-attachments/assets/ca29e057-fd1b-4b99-b66b-6ac9e5c2bd8e)
 
+![изображение](https://github.com/user-attachments/assets/49afd7e8-d965-47a9-9254-10b76816bb6e)
