@@ -171,10 +171,10 @@
    - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
    - [git course](https://learngitbranching.js.org/?locale=ru_RU)
 19. **Практика  Github**
-     -[КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
-     -[Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
+   - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
+   - [Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
 
-### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ!
+### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
 ### Дополнительная информация
 
