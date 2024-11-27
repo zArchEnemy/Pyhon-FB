@@ -115,6 +115,7 @@
    - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/3602) с:
      - Вашим логином в Telegram
      - Ссылкой на ваш профиль GitHub
+     - в посте добавьте хэштеги #githubaccount #UsernameTelegram
      
 1. **Создайте новую ветку**
    - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin).
