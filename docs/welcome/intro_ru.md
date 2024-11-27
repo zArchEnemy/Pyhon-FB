@@ -60,7 +60,7 @@
           Enable Russian Spell Checker Dictionary
           Enable Russian Spell Checker Dictionary in Workspace
       -  Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
-      - Настройте курсор(vscode на видео) к работе https://www.youtube.com/watch?v=Si9MfV8uJ-0
+      - Настройте   [курсор(vscode на видео) к работе](https://www.youtube.com/watch?v=Si9MfV8uJ-0)
       - Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)
       - Посмотрите [процесс принятие и отправки домашних заданий на гитхаб](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
 3. **Python (CPython)**
