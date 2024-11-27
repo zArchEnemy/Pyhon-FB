@@ -1,5 +1,6 @@
 Ставим обазательно звезду
-![image](https://github.com/user-attachments/assets/918505f9-9966-42ac-b053-ff9d06d515d8)
+![image](https://github.com/user-attachments/assets/aa4e7946-d65f-4f5f-91a2-84a1dc3bdcb4)
+
 
 
 1) создаём [новую ветку](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches)
