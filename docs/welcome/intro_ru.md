@@ -146,7 +146,7 @@
    - [Бонусы](https://t.me/c/1937296927/25305/25306) 
 
 10. **Ознакомиться с системой помощи в комьюнити**
-   - [Инструкця помощь](https://t.me/c/1937296927/2415/23729)
+   - [Инструкция помощь](https://t.me/c/1937296927/2415/23729)
    - [Практика запроса помощи или сообщения о проблеме](https://youtu.be/wR3gXOiRm10)
 
 11. **Ознакомиться с отменой занятий**
@@ -164,11 +164,15 @@
    ![изображение](https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537)
 16. **Ответьте на квизы и пришлите пул реквест**
    - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
+   - [pull requests](https://www.youtube.com/live/Fdhy4W4U4os)
 17. **Внимательно прочитайте инструкцию по  git**
    - [git](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/git/intro_to_git.ipynb)
 18. **Приступите к практике по git**
    - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
    - [git course](https://learngitbranching.js.org/?locale=ru_RU)
+19. **Практика  Github**
+     -[КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
+     -[Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
 
 ### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ!
 
