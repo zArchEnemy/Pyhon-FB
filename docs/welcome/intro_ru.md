@@ -105,6 +105,12 @@
 5. **Переключите ветки**
    - Убедитесь, что вы переключились на вашу новую ветку в GitHub Desktop.
 ![image](https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4)
+
+5.1 **Откройте курсор в github desktop и переключите в нем ветки**
+![изображение](https://github.com/user-attachments/assets/ff126dff-f663-4808-b99d-450493fd326a)
+
+
+
 <img width="1074" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/0298410e-f652-4518-a8e1-580d555ea27b">
 
 6. **Введите команды в терминал**
