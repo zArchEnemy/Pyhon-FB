@@ -7,7 +7,8 @@
 <p></p>
 5) (Актуально если качали не через гитхаб десктоп) Добавляем в Github Desktop Ваш новый репозиторий 
  <img width="403" alt="Screenshot 2024-11-27 at 4 07 02 AM" src="https://github.com/user-attachments/assets/e53e0384-84ac-4219-897c-9788e640a2a1">
-6) Если в чате [github](https://t.me/c/1937296927/3602) я прошу вас "обновите ветки"
+<p></p>
+6) Если в чате github(https://t.me/c/1937296927/3602) я прошу вас "обновите ветки"
 вы отправляете пулреквест в свою ветку с main 
 https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare
 выбираем свою ветку и нажимаем пул реквест
