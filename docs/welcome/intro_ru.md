@@ -190,8 +190,6 @@
    - Нажимаем Mark as resolved
      ![изображение](https://github.com/user-attachments/assets/95875526-f125-47c9-91d5-8e9f39ed4dce)
   
-
-![image](https://github.com/user-attachments/assets/e027f42e-a66f-42db-a52a-3a6319903ee8)
 ### Дальнейшее обучение и портфолио
 - [Портфолио](https://youtu.be/CQ3J2nCkBSo?si=Sy8wc6IWHDahz3KY)
 
