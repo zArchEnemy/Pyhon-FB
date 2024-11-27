@@ -204,7 +204,7 @@
    - Если в чате GitHub вас просят "обновите ветки", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
    - Скролим в самый низ и нажимаем зелёную кнопку "merge"   
-   - Если возникает конфликт при слиянии
+   - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
    - Нажимаем Resolve
    - Устраняем конфликт вручную, путём вырезания ненужных строк
