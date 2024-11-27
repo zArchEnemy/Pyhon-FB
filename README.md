@@ -1,6 +1,10 @@
-Ставим обазательно звезду
+- Ставим обазательно звезду
 ![image](https://github.com/user-attachments/assets/aa4e7946-d65f-4f5f-91a2-84a1dc3bdcb4)
 <p></p>
+- Если вас нет в списке https://github.com/orgs/SENATOROVAI/teams/senatorov-team, напишите в чат https://t.me/c/1937296927/3602:
+
+- Добавь в команду @ВашЛогинТелеграм, ссылка на гитхаб
+=============
 
 1) создаём [новую ветку](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches)
 2) называем как ваш [Гитхаб Логин](https://github.com/settings/admin)
