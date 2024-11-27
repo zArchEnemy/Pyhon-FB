@@ -120,3 +120,6 @@
 
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
 
+![изображение](https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928)
+
+
