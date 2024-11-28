@@ -25,9 +25,9 @@
 
 4.1 **Клонирование конкретной ветки**
 
-- git clone --branch <branch-name> <repository-url>
+- git clone --branch branch-name repository-url
 
-- git clone --branch main https://github.com/user/repo.git
+- git clone --branch название-ветки https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV.git
 
 5. **Переключите ветки**
    - Убедитесь, что вы переключились на вашу новую ветку в GitHub Desktop.
