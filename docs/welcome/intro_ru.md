@@ -144,8 +144,9 @@
 
 4.1 **Клонирование конкретной ветки**
 
-- откройте терминал/командную строку, перейдите в ваш репозиторий с помощью команды cd documents/github/
-- git clone --branch название-ветки https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV.git
+- откройте терминал/командную строку, перейдите в ваш репозиторий с помощью команды ``cd documents/github/``
+- `` git clone --branch название-ветки https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV.git ``
+- ``cursor .``
 
 5. **Переключите ветки**
    - Убедитесь, что вы переключились на вашу новую ветку в GitHub Desktop.
