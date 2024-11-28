@@ -11,7 +11,7 @@
   <li><a href="#скачайте-репозиторий-на-свой-компьютер">Скачайте репозиторий на свой компьютер</a></li>
   <li><a href="#update-branch">Update branch</a></li>
   <li><a href="#Resolve-conflicts">Resolve conflicts with merge branch</a></li>
-  
+  <li><a href="#check-hw">Check hw</a></li>
 </ul>
 
 ### Добро пожаловать в команду SENATOROVAI! 
@@ -253,7 +253,13 @@
 ![изображение](https://github.com/user-attachments/assets/49afd7e8-d965-47a9-9254-10b76816bb6e)  
 
 - отдаём коммит, ВЫ УСПЕШНО РЕШИЛИ КОНФЛИКТ!
-   
+
+### Check hw
+- Если вы хотите чтобы я проверил вашу домашнюю работу, отправляйте пул реквест в main
+- Присылайте ссылку на пул реквест в https://t.me/c/1937296927/4496, в посте добавьте хэштеги #checkhw #openhw
+- Когда я проверю вашу домашку, я пришлю ссылку на ревью, в ответ на ваше сообщение, вам нужно будет поменять статус в посте на #closeshw
+  
+
 ### Дальнейшее обучение и портфолио
 - [Портфолио](https://youtu.be/CQ3J2nCkBSo?si=Sy8wc6IWHDahz3KY)
 
