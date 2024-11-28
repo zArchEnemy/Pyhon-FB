@@ -302,15 +302,17 @@
 -  ишьюс-улучшение, если хотите помочь мне улучшить документацию, структуру папок и заработать баллы
 -  ишьюс-баг
 -  пишете содержательный тайтл, дескрипшен, запоминаете номер ишьюса, вы его будете вставлять в пул реквест, [инструкция как создать ишьюс](https://youtu.be/wR3gXOiRm10)
-  
+
+- **Пример**
+<img width="700" alt="Screenshot 2024-11-28 at 2 24 08 PM" src="https://github.com/user-attachments/assets/3ee8d7df-add9-413e-96d7-ec466c509bcb">
+ 
 - Вы можете попросить чтобы я проверил:
  1) сразу весь файл
  2) блок кода
  3) одну строку, кнопка "Copy permalink" нужно кликнуть на конкретную строку или выделить несколько строк, 
 <img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/d624ff5b-8755-45fd-b45e-7786643a2138">
     
-- **Пример**
-<img width="700" alt="Screenshot 2024-11-28 at 2 24 08 PM" src="https://github.com/user-attachments/assets/3ee8d7df-add9-413e-96d7-ec466c509bcb">
+
 
 -  [Открываете пул реквест в ветку main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls), Тайтл копируем из ишьюс, в дескрипшен пишем Closes #НомерИшьюса, в моём  примере это **Closes #35** 
 <img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
