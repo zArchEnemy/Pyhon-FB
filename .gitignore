@@ -240,3 +240,10 @@ coverage/
 
 /Math/calculus/theory
 /Math/school_theory
+
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.rar
+*.gif
