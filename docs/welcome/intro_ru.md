@@ -201,17 +201,39 @@
 ### Дополнительная информация
 
 1. **Обновите ветки**
-   - Если в чате GitHub вас просят "обновите ветки", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
+   - Если в чате GitHub вас просят "обновите ветки/update branch", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
    - Скролим в самый низ и нажимаем зелёную кнопку "merge"   
-   - Если возникает конфликт при слиянии
+   - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
    - Нажимаем Resolve
    - Устраняем конфликт вручную, путём вырезания ненужных строк
      ![изображение](https://github.com/user-attachments/assets/ac663b18-8974-4fdc-8efd-3193164b2285)
    - Нажимаем Mark as resolved
      ![изображение](https://github.com/user-attachments/assets/95875526-f125-47c9-91d5-8e9f39ed4dce)
-  
+
+2. **Сложный конфликт**
+   
+<img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
+     
+![изображение](https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928)
+- Внизу слева, должен быть написан **ваш репозиторий**
+- Нажимаем 3 точки,  merge
+
+![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
+
+- выбираем из какой ветки будем мержиться, нажимаем на **"origin/main remote branch"**, то есть с той ветки которая лежит на сайте гитхаб, а не ,main которая у вас на компе.
+
+![изображение](https://github.com/user-attachments/assets/89b59451-31e2-4f5a-8333-c7e093cf304f)
+
+- Нажимаем accept current change , это то что пришло с гитхаба, наши локальные данные удаляться.
+
+![изображение](https://github.com/user-attachments/assets/ca29e057-fd1b-4b99-b66b-6ac9e5c2bd8e)
+
+![изображение](https://github.com/user-attachments/assets/49afd7e8-d965-47a9-9254-10b76816bb6e)  
+
+- отдаём коммит, ВЫ УСПЕШНО РЕШИЛИ КОНФЛИКТ!
+   
 ### Дальнейшее обучение и портфолио
 - [Портфолио](https://youtu.be/CQ3J2nCkBSo?si=Sy8wc6IWHDahz3KY)
 
