@@ -264,7 +264,15 @@
 
 ### Check hw 
 - Если вы хотите чтобы я проверил вашу домашнюю работу, отправляйте [пул реквест в main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls)
-  <img width="1253" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
+
+<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
+<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/3d5878ab-b38a-48a5-b18b-fad21c8673aa">
+ 
+- Тайтл пул рекветса Check Hw
+- Дескрипшен, пишем обязательно что надо проверить, я могу проверить конкретную строку в файле или весь файл целиком
+- Вставить конкретную строку кода, нужно кликнуть на конкретную строку или выделить несколько строк, инструкция https://youtu.be/wR3gXOiRm10
+
+<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/d624ff5b-8755-45fd-b45e-7786643a2138">
 
 - Присылайте ссылку на пул реквест в https://t.me/c/1937296927/3602, в посте добавьте хэштеги #checkhw #openhw
 - Когда я проверю вашу домашку, я пришлю ссылку на ревью, в ответ на ваше сообщение, вам нужно будет поменять статус в посте на #closeshw
