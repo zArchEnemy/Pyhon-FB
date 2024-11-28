@@ -262,21 +262,28 @@
 Следуя этим структурированным шагам, вы сможете обеспечить гладкий процесс внесения изменений и оставаться в соответствии с руководящими принципами репозитория.
 
 
-### Check hw 
-- Создаёте ишьюс, https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues, и пишете в нём подробно что надо проверить
-![image](https://github.com/user-attachments/assets/f8d97bbe-d3c1-4ae6-8a2b-c32b496d2be2)
+### Check hw  
+- [Создаёте ишьюс](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues), у вас 3 варнианта:
+-  ишьюс-вопрос
+-  ишьюс-улучшение, если хотите помочь мне улучшить документацию, структуру папок и заработать баллы
+-  ишьюс-баг
+-  пишете содержательный тайтл, дескрипшен, запоминаете номер ишьюса, вы его будете вставлять в пул реквест, подробная инструкция как создать ишьюс [инструкция](https://youtu.be/wR3gXOiRm10)
+  
+- Вы можете попросить чтобы я проверил:
+ 1) сразу весь файл
+ 2) блок кода
+ 3) одну строку, кнопка "Copy permalink" нужно кликнуть на конкретную строку или выделить несколько строк, 
+<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/d624ff5b-8755-45fd-b45e-7786643a2138">
+    
+- **Пример**
+<img width="700" alt="Screenshot 2024-11-28 at 2 24 08 PM" src="https://github.com/user-attachments/assets/3ee8d7df-add9-413e-96d7-ec466c509bcb">
 
-- Открываете пул реквест, в дескрипшете обязательно пишете Closes #НомерИшьюса который вы открыли [пул реквест в main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls)
-
+-  [Открываете пул реквест](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls), в дескрипшете обязательно пишете Closes #НомерИшьюса, в моём случае это **Closes #35** 
 <img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
 <img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/3d5878ab-b38a-48a5-b18b-fad21c8673aa">
  
-- Тайтл пул рекветса Check Hw
-- Дескрипшен, пишем обязательно что надо проверить, я могу проверить конкретную строку в файле или весь файл целиком
-- Вставить конкретную строку кода, кнопка "Copy permalink" нужно кликнуть на конкретную строку или выделить несколько строк, [инструкция](https://youtu.be/wR3gXOiRm10)
-
-<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/d624ff5b-8755-45fd-b45e-7786643a2138">
-
+- Тайтл остается таким же как ишьюс
+- Дескрипшен, пишем обязательно Closes #НомерИшьюса
 - Присылайте ссылку на пул реквест в https://t.me/c/1937296927/3602, в посте добавьте хэштеги #checkhw #openhw
 - Когда я проверю вашу домашку, я пришлю ссылку на ревью, в ответ на ваше сообщение, вам нужно будет поменять статус в посте на #closeshw
       
