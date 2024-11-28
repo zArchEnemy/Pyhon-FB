@@ -19,7 +19,7 @@
    - оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
    - выберите шаблон https://github.com/abhisheknaiidu/awesome-github-profile-readme
    - Повторите 5 пунктов
-   - <img src="https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926" alt="Example" width="500px">
+   - <img src="https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926" alt="Example" width="700px">
 
 
 2. **Kaggle**
@@ -33,7 +33,7 @@
    - Подпишитесь на коллег https://t.me/c/1937296927/832/21039
    - Заполните профиль
 
-   <img src="https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf" alt="Example" width="500px">
+   <img src="https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf" alt="Example" width="700px">
 
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
@@ -53,9 +53,9 @@
 2. **Cursor**
    - Скачайте с [Cursor](https://github.com/getcursor/cursor).
    - Установите согласно предоставленным инструкциям.
-   -  <img src="https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5" alt="Example" width="500px">
+   -  <img src="https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5" alt="Example" width="700px">
    - (установить плагины):
-   -  <img src="https://github.com/user-attachments/assets/679c88db-af1a-45de-8caa-0e289701ee1d" alt="Example" width="500px">
+   -  <img src="https://github.com/user-attachments/assets/679c88db-af1a-45de-8caa-0e289701ee1d" alt="Example" width="700px">
 
 
       - ms-python.pylint
@@ -85,7 +85,7 @@
           Enable Russian Spell Checker Dictionary in Workspace
       -  Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
       - Настройте [курсор(vscode на видео) к работе](https://www.youtube.com/watch?v=Si9MfV8uJ-0)
-      - Кнопка настройки в курсоре, для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="500px">
+      - Кнопка настройки в курсоре, для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="700px">
 
       - Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)
       - Посмотрите [процесс принятие и отправки домашних заданий на гитхаб](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
@@ -129,7 +129,7 @@
 - Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
 4. **Клонируйте репозиторий, лучше конкретную ветку**
    - Скачайте репозиторий на ваш локальный компьютер любым удобным способом. Рекоммендую Github Desktop
-  <img width="500px" alt="Screenshot 2024-11-27 at 4 01 19 AM" src="https://github.com/user-attachments/assets/51b74e3d-369b-46fa-be37-6f99c44bf587">
+  <img width="700px" alt="Screenshot 2024-11-27 at 4 01 19 AM" src="https://github.com/user-attachments/assets/51b74e3d-369b-46fa-be37-6f99c44bf587">
   
 
 4.1 **Клонирование конкретной ветки**
@@ -139,15 +139,15 @@
 
 5. **Переключите ветки**
    - Убедитесь, что вы переключились на вашу новую ветку в GitHub Desktop.
- <img src="https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4" alt="Example" width="500px">
+ <img src="https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4" alt="Example" width="700px">
 
 5.1 **Откройте курсор в github desktop и переключите в нем ветки**
- <img src="https://github.com/user-attachments/assets/ff126dff-f663-4808-b99d-450493fd326a" alt="Example" width="500px">
-<img width="500px" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/0298410e-f652-4518-a8e1-580d555ea27b">
+ <img src="https://github.com/user-attachments/assets/ff126dff-f663-4808-b99d-450493fd326a" alt="Example" width="700px">
+<img width="700px" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/0298410e-f652-4518-a8e1-580d555ea27b">
 
 6. **Введите команды в терминал**
    - Откройте терминал и убедитесь что там написано Data-Science-For-Beginners-from-scratch-SENATOROV
- <img src="https://github.com/user-attachments/assets/c5692ba1-5029-4688-a33b-22220b1cb58a" alt="Example" width="500px">
+ <img src="https://github.com/user-attachments/assets/c5692ba1-5029-4688-a33b-22220b1cb58a" alt="Example" width="700px">
  
    ![изображение](https://github.com/user-attachments/assets/6145231b-a5b4-488b-967a-5d4ed9b995a5)
    - Затем вставьте 4 команды ниже, в терминал, по очереди, и нажмите каждый раз Enter
@@ -165,7 +165,7 @@
 7. **Пришлите скриншот вашего терминала**
    - Сделайте полный скриншот вашего терминала на весь экран и пришлите в [чат](https://t.me/c/1937296927/3602) пример скриншота
 
-    <img src="https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466" alt="Example" width="500px">
+    <img src="https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466" alt="Example" width="700px">
 
 7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ваш локальный репозиторий который находится в documents/github/ваш_репозиторий, в новый репозиторий documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV,за исключением двух папок:**
    - /Math/school_theory 
@@ -193,7 +193,7 @@
 15. **Персональное обращение**
    - регулярно проверяйте что вас [не тегнули](https://t.me/c/1937296927/2415/25595)
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
-   <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="500px">
+   <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="700px">
    
 16. **Ответьте на квизы и пришлите пул реквест**
    - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
@@ -219,16 +219,16 @@
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
    - Нажимаем Resolve
    - Устраняем конфликт вручную, путём вырезания ненужных строк
-      <img src="https://github.com/user-attachments/assets/ac663b18-8974-4fdc-8efd-3193164b2285" alt="Example" width="500px">
+      <img src="https://github.com/user-attachments/assets/ac663b18-8974-4fdc-8efd-3193164b2285" alt="Example" width="700px">
    - Нажимаем Mark as resolved
      ![изображение](https://github.com/user-attachments/assets/95875526-f125-47c9-91d5-8e9f39ed4dce)
 
 2. **Сложный конфликт**
    
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
-<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="500px">    
+<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">    
 
-- Внизу слева, должен быть написан **ваш репозиторий**
+- Внизу слева, должна быть написана **ваша ветка, которую вы создали**
 - Нажимаем 3 точки,  merge
 
 ![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
