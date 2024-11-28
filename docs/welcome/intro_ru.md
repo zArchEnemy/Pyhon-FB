@@ -264,7 +264,7 @@
 
 
 ### Check hw  
-- [Создаёте ишьюс](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues), у вас 3 варнианта:
+- [Создаёте ишьюс](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues), у вас 3 варианта:
 -  ишьюс-вопрос
 -  ишьюс-улучшение, если хотите помочь мне улучшить документацию, структуру папок и заработать баллы
 -  ишьюс-баг
@@ -283,10 +283,9 @@
 <img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
 <img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/ac16ef64-da62-4364-990f-d04db21820ac">
 
-- Присылайте ссылку на пул реквест в https://t.me/c/1937296927/3602, в посте пишете:
- please review hw
- #reviewhw #openhw
-- Когда я проверю вашу домашку, я пришлю ссылку на ревью, в ответ на ваше сообщение, вам нужно будет поменять статус в посте на #closeshw
+- Присылайте ссылку на ишьюс в https://t.me/c/1937296927/3602, в посте пишете:
+- копируете тайтл из ишьюса и добавляете 2 хэштега #open #issues
+- Когда я проверю вашу домашку, я пришлю ссылку на ревью, в ответ на ваше сообщение, вам нужно будет поменять статус в посте на #closes
       
 Если у вас есть вопросы или нужна дополнительная помощь, не стесняйтесь спрашивать [здесь](https://t.me/c/1937296927/2415)!
 
