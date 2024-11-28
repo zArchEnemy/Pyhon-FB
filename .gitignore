@@ -244,3 +244,6 @@ coverage/
 *.png
 *.jpg
 *.jpeg
+*.zip
+*.rar
+*.gif
