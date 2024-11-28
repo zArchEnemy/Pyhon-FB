@@ -193,7 +193,8 @@
 15. **Персональное обращение**
    - регулярно проверяйте что вас [не тегнули](https://t.me/c/1937296927/2415/25595)
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
- <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="500px">
+   <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="500px">
+   
 16. **Ответьте на квизы и пришлите пул реквест**
    - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
    - [pull requests](https://www.youtube.com/live/Fdhy4W4U4os)
