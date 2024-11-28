@@ -15,6 +15,9 @@
      
 1. **Создайте новую ветку**
    - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin).
+     ![image](https://github.com/user-attachments/assets/99f05e36-f698-486a-8f95-50225043fb22)
+
+
 - Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
 4. **Клонируйте репозиторий**
    - Скачайте репозиторий на ваш локальный компьютер любым удобным способом. Рекоммендую Github Desktop
