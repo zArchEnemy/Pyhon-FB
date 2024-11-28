@@ -1,8 +1,14 @@
 ![photo_2024-01-16_20-54-32](https://github.com/user-attachments/assets/fe349ddc-47df-40f7-80b9-5758c15373c7)
 
+---
+
 <h1>Добро пожаловать в команду SENATOROVAI!</h1>
 
-<p>Старые студенты сразу переходят <a href="#скачайте-репозиторий-на-свой-компьютер">к этому пункту</a>, при условии что предыдущие выполнены</p>
+- <p>Старые студенты сразу переходят <a href="#скачайте-репозиторий-на-свой-компьютер">к этому пункту</a>, при условии что предыдущие выполнены</p>
+
+- Выполни инструкцию ниже, если возникнут трудности смело пиши: https://t.me/c/1937296927/2415
+
+---
 
 <h2>Оглавление</h2>
 <ul>
@@ -14,11 +20,12 @@
   <li><a href="#check-hw">Check hw (проверка домашек)</a></li>
 </ul>
 
-### Добро пожаловать в команду SENATOROVAI! 
-- Выполни инструкцию ниже, если возникнут трудности смело пиши: https://t.me/c/1937296927/2415
+---
 
 ### Расскажи о себе, прошлый опыт, цель обучения, где живешь, лучше пиши на английском, коллеги англоязычные, русский их не родной,
    - Сообщение отправь сюда [Тык](https://t.me/c/1937296927/3181)
+
+---
 
 ### Регистрация аккаунтов
 
@@ -33,6 +40,7 @@
    - Повторите 5 пунктов
    - <img src="https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926" alt="Example" width="700px">
 
+---
 
 2. **Kaggle**
    - [Что такое КЭГГЛ?](https://youtu.be/wL9zQczbHRs)
@@ -49,18 +57,23 @@
 
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
+
+---
+
 4. **ODS.AI**
    - Перейдите на [ODS.AI](https://ods.ai/).
    - Зарегистрируйтесь для создания аккаунта.
    - Поделитесь ссылкой на ваш профиль ODS.AI в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #odsaccount 
   
-
+---
 
 ### Скачивание и установка программ
 
 1. **GitHub Desktop**
    - Скачайте с [GitHub Desktop](https://github.com/desktop/desktop).
    - Следуйте инструкциям по установке для вашей операционной системы.
+
+---
 
 2. **Cursor**
    - Скачайте с [Cursor](https://github.com/getcursor/cursor).
@@ -101,23 +114,34 @@
 
       - **Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)**
       - Посмотрите [процесс принятие и отправки домашних заданий на гитхаб](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
+
+---
+
 3. **Python (CPython)**
    - Скачайте с [CPython](https://github.com/python/cpython).
    - Следуйте руководству по установке для вашей платформы.
    - Повторите видео [Интерпритатор Cpython и PYPY](https://youtu.be/ooLcXygrLnU)
 
+---
+
 4. **Git for Windows**
    - Скачайте с [Git for Windows](https://github.com/git-for-windows/git).
    - Установите, следуя инструкциям по настройке.
+
+---
 
 5. **Conda**
    - Скачайте с [Conda](https://github.com/conda/conda).
    - Следуйте инструкциям по установке для вашей системы.
 
+---
+
 - **Джамборд для учёбы**
   - Посмотрите видеоинструкцию: [YouTube](https://youtu.be/8pwKgbMyfbo)
   - Используйте [Canva](https://www.canva.com/) для создания и обмена джамбордами.
   - Скиньте мне в личку ссылку на ваш джамборд.
+
+---
 
 ### Скачайте репозиторий на свой компьютер.
 
@@ -125,12 +149,16 @@
    - Убедитесь, что вы поставили звезду репозиторию, https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 ![image](https://github.com/user-attachments/assets/aa4e7946-d65f-4f5f-91a2-84a1dc3bdcb4)
 
+---
+
 2. **Присоединитесь к команде**
    - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/3602) с:
      - Вашим логином в Telegram
      - Ссылкой на ваш профиль GitHub
      - в посте добавьте хэштеги #githubaccount #senatorovteam
-     
+
+---
+
 1. **Создайте новую ветку**
    - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin) без СОБАЧКИ @.
   
@@ -220,6 +248,8 @@
 
 ### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
+---
+
 1. ### **update branch**
    - Если в чате GitHub вас просят "обновите ветки/update branch", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
@@ -232,6 +262,8 @@
       <img src="https://github.com/user-attachments/assets/ac663b18-8974-4fdc-8efd-3193164b2285" alt="Example" width="700px">
    - Нажимаем Mark as resolved
      ![изображение](https://github.com/user-attachments/assets/95875526-f125-47c9-91d5-8e9f39ed4dce)
+
+---
 
 2. **Сложный конфликт**
    
@@ -255,6 +287,8 @@
 
 - отдаём коммит, ВЫ УСПЕШНО РЕШИЛИ КОНФЛИКТ!
 
+---
+
 ### Дальнейшее обучение и портфолио
 - [Портфолио](https://youtu.be/CQ3J2nCkBSo?si=Sy8wc6IWHDahz3KY)
 
@@ -262,6 +296,7 @@
 
 Следуя этим структурированным шагам, вы сможете обеспечить гладкий процесс внесения изменений и оставаться в соответствии с руководящими принципами репозитория.
 
+---
 
 ### Check hw  
 - [Создаёте ишьюс](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues), у вас 3 варианта:
@@ -286,7 +321,9 @@
 - Присылайте ссылку на ишьюс в https://t.me/c/1937296927/3602, в посте пишете:
 - копируете тайтл из ишьюса и добавляете 2 хэштега #open #issues
 - Когда я проверю вашу домашку, я пришлю ссылку на ревью, в ответ на ваше сообщение, вам нужно будет поменять статус в посте на #closes
-      
+
+---
+
 Если у вас есть вопросы или нужна дополнительная помощь, не стесняйтесь спрашивать [здесь](https://t.me/c/1937296927/2415)!
 
 
