@@ -25,4 +25,4 @@ jobs:
         run: |
           git add DIRECTORY.md README.md
           git commit -m "SENATOROV updating DIRECTORY.md and README.md" || echo "No changes to commit"
-          git push --force
+          git push --force origin ${{ github.ref_name }}
