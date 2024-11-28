@@ -14,7 +14,7 @@
      - в посте добавьте хэштег #githubaccount 
      
 1. **Создайте новую ветку**
-   - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin).
+   - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin) без СОБАЧКИ @.
      ![image](https://github.com/user-attachments/assets/99f05e36-f698-486a-8f95-50225043fb22)
 
 
