@@ -99,7 +99,7 @@
       - Настройте [курсор(vscode на видео) к работе](https://www.youtube.com/watch?v=Si9MfV8uJ-0)
       - Кнопка "vs code settings" ,для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="700px">
 
-      - Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)
+      - **Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)**
       - Посмотрите [процесс принятие и отправки домашних заданий на гитхаб](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
 3. **Python (CPython)**
    - Скачайте с [CPython](https://github.com/python/cpython).
