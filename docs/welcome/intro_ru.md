@@ -10,6 +10,7 @@
   <li><a href="#скачивание-и-установка-программ">Скачивание и установка программ</a></li>
   <li><a href="#скачайте-репозиторий-на-свой-компьютер">Скачайте репозиторий на свой компьютер</a></li>
   <li><a href="#update-branch">update branch</a></li>
+  <li><a href="#Resolve-conflicts">Resolve conflicts with merge branch</a></li>
   
 </ul>
 
