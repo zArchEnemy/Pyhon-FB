@@ -162,10 +162,10 @@
  
    ![изображение](https://github.com/user-attachments/assets/6145231b-a5b4-488b-967a-5d4ed9b995a5)
    - Затем вставьте 4 команды ниже, в терминал, по очереди, и нажмите каждый раз Enter
-   - git init
-   - pip install pre-commit
-   - pre-commit install
-   - pre-commit run --all-files
+   - ``git init ``
+   - ``pip install pre-commit``
+   - ``pre-commit install``
+   - ``pre-commit run --all-files``
 
    - Документация по линтерам:
    - Pylint https://pylint.pycqa.org
