@@ -267,7 +267,7 @@
 -  ишьюс-вопрос
 -  ишьюс-улучшение, если хотите помочь мне улучшить документацию, структуру папок и заработать баллы
 -  ишьюс-баг
--  пишете содержательный тайтл, дескрипшен, запоминаете номер ишьюса, вы его будете вставлять в пул реквест, подробная инструкция как создать ишьюс [инструкция](https://youtu.be/wR3gXOiRm10)
+-  пишете содержательный тайтл, дескрипшен, запоминаете номер ишьюса, вы его будете вставлять в пул реквест, [инструкция как создать ишьюс](https://youtu.be/wR3gXOiRm10)
   
 - Вы можете попросить чтобы я проверил:
  1) сразу весь файл
@@ -278,13 +278,13 @@
 - **Пример**
 <img width="700" alt="Screenshot 2024-11-28 at 2 24 08 PM" src="https://github.com/user-attachments/assets/3ee8d7df-add9-413e-96d7-ec466c509bcb">
 
--  [Открываете пул реквест](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls), в дескрипшете обязательно пишете Closes #НомерИшьюса, в моём случае это **Closes #35** 
-<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
-<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/3d5878ab-b38a-48a5-b18b-fad21c8673aa">
- 
-- Тайтл остается таким же как ишьюс
-- Дескрипшен, пишем обязательно Closes #НомерИшьюса
-- Присылайте ссылку на пул реквест в https://t.me/c/1937296927/3602, в посте добавьте хэштеги #checkhw #openhw
+-  [Открываете пул реквест в ветку main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls), Тайтл копируем из ишьюс, в дескрипшен пишем Closes #НомерИшьюса, в моём  примере это **Closes #35** 
+<img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
+<img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/ac16ef64-da62-4364-990f-d04db21820ac">
+
+- Присылайте ссылку на пул реквест в https://t.me/c/1937296927/3602, в посте пишете:
+ please review hw
+ #reviewhw #openhw
 - Когда я проверю вашу домашку, я пришлю ссылку на ревью, в ответ на ваше сообщение, вам нужно будет поменять статус в посте на #closeshw
       
 Если у вас есть вопросы или нужна дополнительная помощь, не стесняйтесь спрашивать!
