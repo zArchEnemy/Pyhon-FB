@@ -238,4 +238,6 @@ target/
 *.env  # Environment variable files
 coverage/
 
+/Math/calculus/theory
 
+/Math/school_theory
