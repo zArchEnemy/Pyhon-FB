@@ -263,12 +263,15 @@
 
 
 ### Check hw 
-- Если вы хотите чтобы я проверил вашу домашнюю работу, отправляйте [пул реквест в main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls)
+- Создаёте ишьюс, https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues, и пишете в нём подробно что надо проверить
+![image](https://github.com/user-attachments/assets/f8d97bbe-d3c1-4ae6-8a2b-c32b496d2be2)
 
-<img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
-<img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/3d5878ab-b38a-48a5-b18b-fad21c8673aa">
+- Открываете пул реквест, в дескрипшете обязательно пишете Closes #НомерИшьюса который вы открыли [пул реквест в main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls)
+
+<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
+<img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/3d5878ab-b38a-48a5-b18b-fad21c8673aa">
  
-- Тайтл пул реквеста Check Hw
+- Тайтл пул рекветса Check Hw
 - Дескрипшен, пишем обязательно что надо проверить, я могу проверить конкретную строку в файле или весь файл целиком
 - Вставить конкретную строку кода, кнопка "Copy permalink" нужно кликнуть на конкретную строку или выделить несколько строк, [инструкция](https://youtu.be/wR3gXOiRm10)
 
