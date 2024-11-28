@@ -19,9 +19,15 @@
 
 
 - Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
-4. **Клонируйте репозиторий**
+4. **Клонируйте репозиторий, лучше конкретную ветку**
    - Скачайте репозиторий на ваш локальный компьютер любым удобным способом. Рекоммендую Github Desktop
   <img width="995" alt="Screenshot 2024-11-27 at 4 01 19 AM" src="https://github.com/user-attachments/assets/51b74e3d-369b-46fa-be37-6f99c44bf587">
+
+4.1 **Клонирование конкретной ветки**
+
+- git clone --branch <branch-name> <repository-url>
+
+- git clone --branch main https://github.com/user/repo.git
 
 5. **Переключите ветки**
    - Убедитесь, что вы переключились на вашу новую ветку в GitHub Desktop.
