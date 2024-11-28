@@ -11,7 +11,7 @@
   <li><a href="#скачайте-репозиторий-на-свой-компьютер">Скачайте репозиторий на свой компьютер</a></li>
   <li><a href="#update-branch">Update branch</a></li>
   <li><a href="#Resolve-conflicts">Resolve conflicts with merge branch</a></li>
-  <li><a href="#check-hw">Check hw</a></li>
+  <li><a href="#check-hw">Check hw (проверка домашек)</a></li>
 </ul>
 
 ### Добро пожаловать в команду SENATOROVAI! 
@@ -262,7 +262,7 @@
 Следуя этим структурированным шагам, вы сможете обеспечить гладкий процесс внесения изменений и оставаться в соответствии с руководящими принципами репозитория.
 
 
-### Check hw
+### Check hw (проверка домашек)
 - Если вы хотите чтобы я проверил вашу домашнюю работу, отправляйте [пул реквест в main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls)
   <img width="1253" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
 
