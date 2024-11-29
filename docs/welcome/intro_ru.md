@@ -251,7 +251,7 @@
 1. ### **update branch**
    - Если в чате GitHub вас просят "обновите ветки/update branch", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
-   - В title пул реквеста пишите update branch 
+   - В title пул реквеста пишите ``update branch`` 
     ![image](https://github.com/user-attachments/assets/cf31394e-288f-4a53-9730-371585f08fe8)
    - Скролим в самый низ и нажимаем зелёную кнопку "merge"
    ### Resolve conflicts  
