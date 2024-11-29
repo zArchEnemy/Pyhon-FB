@@ -268,6 +268,15 @@
 2. **Сложный конфликт**
    
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
+
+- Переходим в курсор и жмём на клиент гита
+  
+<img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
+
+- Затрекайте свои временные изменения в коммит, нажмите "+" чтобы внести изменения в трекинг систему гит
+- Список Chahges должен быть пустым
+- Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
+<img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
 <img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">    
 
 - Внизу слева, должна быть написана **ваша ветка, которую вы создали**
