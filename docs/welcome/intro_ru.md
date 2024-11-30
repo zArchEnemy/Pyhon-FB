@@ -208,6 +208,11 @@
 
 7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ТОЛЬКО файлы и папки с домашней работой из documents/github/ваш_репозиторий, в новый репозиторий documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
 
+7.2 
+</ul>
+  <li><a href="#commit-переходим-в-курсор-и-жмём-на-клиент-гита">Отправляем коммит</a> </li>
+</ul>
+
 8. **Ознакомиться с системой штрафов**
    - [Штрафы](https://t.me/c/1937296927/11810/11811)
    
@@ -269,7 +274,7 @@
    
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
 
-- Переходим в курсор и жмём на клиент гита
+### Commit (Переходим в курсор и жмём на клиент гита)
   
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
 
