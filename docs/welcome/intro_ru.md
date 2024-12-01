@@ -241,7 +241,7 @@
    - [git](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/git/intro_to_git.ipynb)
 18. **Приступите к практике по git**
    - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
-   - [git course](https://learngitbranching.js.org/?locale=ru_RU) (опционально, если хочешь быть Богом гита)
+   - *[git course](https://learngitbranching.js.org/?locale=ru_RU) *опционально, если хочешь быть Богом гита
 19. **Практика  Github**
    - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
    - [Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
