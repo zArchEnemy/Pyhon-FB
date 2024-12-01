@@ -218,7 +218,9 @@
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
 
 - заходим в свой коммит:
-https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/ИМЯ-ВЕТКИ/,  ИМЯ-ВЕТКИ меняйте на ваш логин гитхаб.
+https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/ИМЯ-ВЕТКИ/,  ИМЯ-ВЕТКИ меняйте на ваш логин гитхаб, вставляете ссылку в url, и копируете ссылку на последний коммит, он будет вверху списка.
+![image](https://github.com/user-attachments/assets/484781f4-d994-49d1-a9da-b256f5589847)
+
 - присылаем ссылку на коммит сюда https://t.me/c/1937296927/4496
 
 8. **Ознакомиться с системой штрафов**
