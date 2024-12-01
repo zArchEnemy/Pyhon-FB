@@ -174,6 +174,7 @@
 
 - откройте терминал/командную строку, перейдите в ваш репозиторий с помощью команды ``cd Documents/github/``
 - `` git clone --branch название-ветки https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV.git ``
+- ``cd Data-Science-For-Beginners-from-scratch-SENATOROV``
 - ``cursor .``
 
 5. **Переключите ветки**
