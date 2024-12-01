@@ -248,6 +248,7 @@ coverage/
 *.rar
 *.gif
 
+
 # Common binary file extensions
 
 # Images
@@ -330,4 +331,5 @@ coverage/
 *.ai   # Adobe Illustrator
 *.indd # Adobe InDesign
 *.xd   # Adobe XD
+
 
