@@ -177,7 +177,7 @@
 - ``cursor .``
 
 5. **Переключите ветки**
-   - Убедитесь, что вы переключились на вашу новую ветку в GitHub Desktop.
+   - (опционально) переключите ветку в GitHub Desktop, вы можете вообще удалить github desktop и [отправлять коммиты через курсор](https://youtu.be/Si9MfV8uJ-0?si=u-VwMWhK-BNtJVuf&t=382), как вам удобно.
  <img src="https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4" alt="Example" width="700px">
 
 5.1 **Откройте курсор в github desktop и переключите в нем ветки**
@@ -207,6 +207,8 @@
     <img src="https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466" alt="Example" width="700px">
 
 7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ТОЛЬКО файлы и папки с домашней работой из documents/github/ваш_репозиторий, в новый репозиторий documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
+
+7.2 <a href="#commit-переходим-в-курсор-и-жмём-на-клиент-гита">Отправляем коммит</a> 
 
 8. **Ознакомиться с системой штрафов**
    - [Штрафы](https://t.me/c/1937296927/11810/11811)
@@ -251,6 +253,8 @@
 1. ### **update branch**
    - Если в чате GitHub вас просят "обновите ветки/update branch", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
+   - В title пул реквеста пишите ``update branch`` 
+    ![image](https://github.com/user-attachments/assets/cf31394e-288f-4a53-9730-371585f08fe8)
    - Скролим в самый низ и нажимаем зелёную кнопку "merge"
    ### Resolve conflicts  
    - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
@@ -266,6 +270,19 @@
 2. **Сложный конфликт**
    
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
+
+### Commit (Переходим в курсор и жмём на клиент гита)
+  
+<img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
+
+- Затрекайте свои временные изменения в коммит, нажмите "+" чтобы внести изменения в трекинг систему гит
+- Список Chahges должен быть пустым
+- Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
+<img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">  
+<img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
+
+- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**, и потом делаем merge веток
+
 <img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">    
 
 - Внизу слева, должна быть написана **ваша ветка, которую вы создали**
@@ -273,7 +290,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
 
-- выбираем из какой ветки будем мержиться, нажимаем на **"origin/main remote branch"**, то есть с той ветки которая лежит на сайте гитхаб, а не ,main которая у вас на компе.
+- выбираем из какой ветки будем мержиться, нажимаем на **"origin/main remote branch"**, то есть с той ветки которая лежит на сайте гитхаб, а не ,main которая у вас на компе, поздравляю, вы успешно обновили ветку, но иногда надо устранять конфликты вручную, поэтому если это ваш случай, читайте дальше доку.
 
 ![изображение](https://github.com/user-attachments/assets/89b59451-31e2-4f5a-8333-c7e093cf304f)
 
@@ -283,7 +300,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/49afd7e8-d965-47a9-9254-10b76816bb6e)  
 
-- отдаём коммит, ВЫ УСПЕШНО РЕШИЛИ КОНФЛИКТ!
+- отдаём коммит, ВЫ УСПЕШНО РЕШИЛИ КОНФЛИКТ И ОБНОВИЛИ ВЕТКУ!
 
 ---
 
@@ -302,15 +319,17 @@
 -  ишьюс-улучшение, если хотите помочь мне улучшить документацию, структуру папок и заработать баллы
 -  ишьюс-баг
 -  пишете содержательный тайтл, дескрипшен, запоминаете номер ишьюса, вы его будете вставлять в пул реквест, [инструкция как создать ишьюс](https://youtu.be/wR3gXOiRm10)
-  
+
+- **Пример**
+<img width="700" alt="Screenshot 2024-11-28 at 2 24 08 PM" src="https://github.com/user-attachments/assets/3ee8d7df-add9-413e-96d7-ec466c509bcb">
+ 
 - Вы можете попросить чтобы я проверил:
  1) сразу весь файл
  2) блок кода
  3) одну строку, кнопка "Copy permalink" нужно кликнуть на конкретную строку или выделить несколько строк, 
 <img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/d624ff5b-8755-45fd-b45e-7786643a2138">
     
-- **Пример**
-<img width="700" alt="Screenshot 2024-11-28 at 2 24 08 PM" src="https://github.com/user-attachments/assets/3ee8d7df-add9-413e-96d7-ec466c509bcb">
+
 
 -  [Открываете пул реквест в ветку main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls), Тайтл копируем из ишьюс, в дескрипшен пишем Closes #НомерИшьюса, в моём  примере это **Closes #35** 
 <img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
