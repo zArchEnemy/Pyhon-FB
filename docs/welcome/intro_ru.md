@@ -206,7 +206,7 @@
 
     <img src="https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466" alt="Example" width="700px">
 
-7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ТОЛЬКО файлы и папки с домашней работой из documents/github/ваш_репозиторий, в новый репозиторий documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
+7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ТОЛЬКО файлы и папки с домашней работой из documents/github/ваш_репозиторий, в новый репозиторий Documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
 
 7.2 <a href="#commit-переходим-в-курсор-и-жмём-на-клиент-гита">Отправляем коммит</a> 
 
