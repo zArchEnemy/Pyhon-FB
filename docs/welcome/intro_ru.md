@@ -277,7 +277,7 @@
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
 
 - Затрекайте свои временные изменения в коммит, нажмите "+" чтобы внести изменения в трекинг систему гит
-- Список Chahges должен быть пустым
+- Список Changes должен быть пустым
 - Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
 <img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">  
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
