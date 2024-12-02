@@ -164,8 +164,9 @@
    
 - Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
 4. **Клонируйте репозиторий, лучше конкретную ветку**
-   - Скачайте репозиторий на ваш локальный компьютер любым удобным способом. Рекоммендую Github Desktop
-  <img width="700px" alt="Screenshot 2024-11-27 at 4 01 19 AM" src="https://github.com/user-attachments/assets/51b74e3d-369b-46fa-be37-6f99c44bf587">
+   - Скачайте репозиторий на ваш локальный компьютер, нажимаем Github Desktop
+ ![image](https://github.com/user-attachments/assets/c3cda1c0-98ce-4c29-8ed9-4b3ecee34c06)
+
   
 
 4.1 **Клонирование конкретной ветки**
