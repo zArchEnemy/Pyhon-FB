@@ -1,0 +1,77 @@
+# Блок 1: Импорты
+import numpy as np
+import pandas as pd
+from scipy import stats
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+# Блок 2: Определения функций
+def expected_value(values, probabilities):
+    """
+    Вычисление математического ожидания дискретной случайной величины
+    """
+    return sum(x * p for x, p in zip(values, probabilities))
+
+def variance(values, probabilities):
+    """
+    Вычисление дисперсии дискретной случайной величины
+    """
+    exp_val = expected_value(values, probabilities)
+    return sum((x - exp_val)**2 * p for x, p in zip(values, probabilities))
+
+def binomial_probability(n, k, p):
+    """
+    Вычисление биномиальной вероятности
+    """
+    return stats.binom.pmf(k, n, p)
+
+def plot_binomial(n, p):
+    """
+    Визуализация биномиального распределения
+    """
+    k = np.arange(0, n+1)
+    distribution = stats.binom.pmf(k, n, p)
+    plt.figure(figsize=(10, 6))
+    plt.bar(k, distribution)
+    plt.title(f'Биномиальное распределение (n={n}, p={p})')
+    plt.xlabel('k')
+    plt.ylabel('Вероятность')
+    plt.grid(True, alpha=0.3)
+    plt.show()
+
+def coin_toss_experiment(n_tosses):
+    """
+    Моделирование подбрасывания монеты
+    """
+    return np.random.binomial(n=1, p=0.5, size=n_tosses)
+
+def dice_distribution():
+    """
+    Распределение вероятностей для игральной кости
+    """
+    values = [1, 2, 3, 4, 5, 6]
+    probabilities = [1/6] * 6
+    return dict(zip(values, probabilities))
+
+# Блок 3: Примеры использования
+# Пример с монетой
+tosses = coin_toss_experiment(1000)
+probability_head = np.mean(tosses)
+print(f"Эмпирическая вероятность выпадения орла: {probability_head:.3f}")
+
+# Биномиальное распределение
+plot_binomial(10, 0.5)
+
+# Пример с игральной костью
+dice_dist = dice_distribution()
+expected_dice = sum(value * prob for value, prob in dice_dist.items())
+print(f"Математическое ожидание броска кости: {expected_dice}")
+
+# Пример вычисления характеристик ДСВ
+values = [1, 2, 3, 4]
+probs = [0.1, 0.3, 0.4, 0.2]
+E = expected_value(values, probs)
+V = variance(values, probs)
+print(f"Математическое ожидание: {E}")
+print(f"Дисперсия: {V}")
+print(f"Среднеквадратическое отклонение: {np.sqrt(V)}")
