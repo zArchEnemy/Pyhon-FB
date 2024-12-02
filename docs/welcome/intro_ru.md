@@ -163,13 +163,13 @@
 ![image](https://github.com/user-attachments/assets/99f05e36-f698-486a-8f95-50225043fb22)
    
 - Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
-4. **Клонируйте репозиторий, лучше конкретную ветку**
-   - Скачайте репозиторий на ваш локальный компьютер, нажимаем Github Desktop
- ![image](https://github.com/user-attachments/assets/c3cda1c0-98ce-4c29-8ed9-4b3ecee34c06)
+4. **Клонируйте репозиторий**
+   - Скачайте репозиторий на ваш локальный компьютер, нажимаем code->open with Github Desktop
 
+<img width="300px" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/c3cda1c0-98ce-4c29-8ed9-4b3ecee34c06">
   
 
-4.1 **Клонирование конкретной ветки**
+4.1 **(опционально)Клонирование конкретной ветки**
 
 - откройте терминал/командную строку, перейдите в ваш репозиторий с помощью команды ``cd Documents/github/``
 - `` git clone --branch название-ветки https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV.git ``
