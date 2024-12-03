@@ -1,0 +1,63 @@
+07/08/2023 Lesson2
+1. Work ini VS code:
+2.connect to Python-tatiana: File -> Open folder . Choose the repository
+3.We check the history in outline and timeline
+4.Провалиться в папки - Explorer
+5. сохранить изменения ctrl+S
+6. обновить страницу на гитхаб ctrl+R
+7. When creating a new repository is very
+8. Create a new repository:
+ Repository->Owner(choose one)/ Repository name(enter a name)-> Add a README file(v(о чем репозиторий))-> Choose a license(MIT licence)
+(https://github.com/organizations/SENATOROVAI/repositories/new)
+9. FORK
+Послле создания пеаозитория в организации, его надо скопировать в свой личный аккаунт GitHub.
+Это операция FORK-> Owner(kypena)/rep name -> create a new fork
+
+11.08.2023 Lesson3
+1. Подключение к venv витуальному окружению. Не запустился. Ошибка ядра
+2. Установка live_share
+3. Подключение к web vs code
+4. Проверка знаний на ключевые слова
+
+
+03.10.2023 (leetcode)
+Проходили 1 задачу на литкод. Разбирали ООП, слайсинги (str(x)[::-1]).
+
+10.10.2023
+1)Scalar product = inner product of 2 vectors.
+2) np.max(w) # максимальное число в векторе
+3) extracting only even digits from the vector v[v%2==0]
+4) cross product of 2 vectors. Shapes must match! np.cross(a,b) (векторное произведение)
+08.11.2023
+Проходили линейные пространства. Аксиомы линейного прстранства. Также проводитля опрос по линейной зависимости векторов.
+19.12.2023
+Работа с Kaggle:
+Основные темы где надо прокачиваться: Discussion Contributor и Notebook Contributor.
+Посмотреть статус: Profile
+Discussion-> Accomplishments
+Попросить поставить upvotes
+Плюс составить совю тему в Discussion для обсуждения
+Анализ тем и предложить совю.
+Запилить ноутбук на каггле по намай. Но его сначала надо привести к MypY  + литер (shift+alt+f)
+
+28.06.24
+Матожидание ДСВ - среднее значение при многократном повторении испытаний.Дисперсия дискретной случайной величины.показывает насколько далеко «разбросаны» данные относительно среднего значения. Дисперсия – это математическое ожидание квадратов отклонений случайной величины от её математического ожидания.
+
+
+14.11.2024
+conda create -n senatorov python=3.9 -  создание окружение
+conda activate senatorov - активация
+conda deactivate - деактивация
+conda install pandas numpy - устанвка пакета
+conda remove -n senatorov --all - удаление виртуального окружение
+Выгрузка зависимости (dependencies)
+conda env export > env.yml / pip - requirements.txt - выгрузка (yml - conda, pip - lkz)
+
+
+26.11.2024
+
+Монте Капло. Задачи с интервью про дни рождения и экзамен. Ошибка байесовского восприятия. Если найти среднее множества испытаний, то увидим, что в данном случае формала Байеса не работает. Искажение Байесовского восприятия это концепция, что люди обрабатывают информацию в усоловиях неопределенности.
+
+
+28.11.2024
+Настройка нового репозитория Data-Science-For-Beginners. Подключение к ветку kypena через http. Запрос не отправлялся. Переделывала на ssh.
