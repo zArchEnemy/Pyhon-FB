@@ -248,17 +248,8 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
    <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="700px">
    
-16. **Ответьте на квизы и пришлите пул реквест**
-   - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
-17. **Приступите к практике по git**
-   - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
-   - [commits задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/52)
-   - [git course](https://learngitbranching.js.org/?locale=ru_RU) - (опционально) доп курс по гит, если предыдущих не хватило.
-18. **Практика  Github**
-   - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
-   - [Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
-
-    
+16. **Обязательно сделайте**
+   - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)    
        
 ### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
