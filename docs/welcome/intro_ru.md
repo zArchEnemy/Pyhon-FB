@@ -118,7 +118,6 @@
 3. **Python (CPython)**
    - Скачайте с [CPython](https://github.com/python/cpython).
    - Следуйте руководству по установке для вашей платформы.
-   - Повторите видео [Интерпритатор Cpython и PYPY](https://youtu.be/ooLcXygrLnU)
 
 ---
 
