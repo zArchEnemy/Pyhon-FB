@@ -248,8 +248,8 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
    <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="700px">
    
-16. **Обязательно сделайте**
-   - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)    
+16. **Обязательно сделайте все задания**
+   - => [Задания](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)    
        
 ### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
