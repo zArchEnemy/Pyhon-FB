@@ -252,7 +252,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
 17. **Приступите к практике по git**
    - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
-   - commits задание, внимательно [изучить доку]( https://www.conventionalcommits.org/ru/v1.0.0/) и сделать [задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/52)
+   - [commits задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/52)
    - [git course](https://learngitbranching.js.org/?locale=ru_RU) - (опционально) доп курс по гит, если предыдущих не хватило.
 18. **Практика  Github**
    - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
