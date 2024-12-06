@@ -212,13 +212,12 @@
 - Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
 <img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
 
-- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**
+- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Посмотрите [процесс принятие и отправки коммитов и работе с линтером](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW) и отправьте коммит нажатием на кнопку **commit&sync**
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
 
 - заходим в свой коммит:
 https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/ИМЯ-ВЕТКИ/,  ИМЯ-ВЕТКИ меняйте на ваш логин гитхаб, вставляете ссылку в url, и копируете ссылку на последний коммит
 ![image](https://github.com/user-attachments/assets/484781f4-d994-49d1-a9da-b256f5589847)
-- Посмотрите [процесс принятие и отправки коммитов и работе с линтером](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
 - присылаем ссылку на коммит сюда https://t.me/c/1937296927/4496
 
 8. **Ознакомиться с системой штрафов**
