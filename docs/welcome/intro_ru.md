@@ -250,16 +250,15 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    
 16. **Ответьте на квизы и пришлите пул реквест**
    - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
-17. **Внимательно прочитайте инструкцию по  git**
-   - [git](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/git/intro_to_git.ipynb)
-18. **Приступите к практике по git**
+17. **Приступите к практике по git**
    - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
+   - commits задание, внимательно [изучить доку]( https://www.conventionalcommits.org/ru/v1.0.0/) и сделать [задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/52)
    - [git course](https://learngitbranching.js.org/?locale=ru_RU) - (опционально) доп курс по гит, если предыдущих не хватило.
-19. **Практика  Github**
+18. **Практика  Github**
    - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
    - [Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
-20. **Соглашение о коммитах**
-     - Внимательно изучить https://www.conventionalcommits.org/ru/v1.0.0/
+
+    
        
 ### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
