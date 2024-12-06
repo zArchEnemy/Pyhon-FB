@@ -111,8 +111,6 @@
       - Кнопка "vs code settings" ,для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="700px">
 
       - **Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)**
-      - Посмотрите [процесс принятие и отправки домашних заданий на гитхаб](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
-
 ---
 
 3. **Python (CPython)**
@@ -220,7 +218,7 @@
 - заходим в свой коммит:
 https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/ИМЯ-ВЕТКИ/,  ИМЯ-ВЕТКИ меняйте на ваш логин гитхаб, вставляете ссылку в url, и копируете ссылку на последний коммит
 ![image](https://github.com/user-attachments/assets/484781f4-d994-49d1-a9da-b256f5589847)
-
+- Посмотрите [процесс принятие и отправки коммитов и работе с линтером](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
 - присылаем ссылку на коммит сюда https://t.me/c/1937296927/4496
 
 8. **Ознакомиться с системой штрафов**
