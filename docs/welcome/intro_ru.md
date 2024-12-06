@@ -258,7 +258,9 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 19. **Практика  Github**
    - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
    - [Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
-
+20. **Соглашение о коммитах**
+     - Внимательно изучить https://www.conventionalcommits.org/ru/v1.0.0/
+       
 ### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
 ---
