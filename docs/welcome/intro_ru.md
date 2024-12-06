@@ -203,7 +203,7 @@
 
     <img src="https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466" alt="Example" width="700px">
 
-7.1 Посмотрите [процесс принятие и отправки коммитов и работе с линтером](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW) и создайте файл log.ipynb, в нём укажите дату и то что сделали в этот день
+7.1 Посмотрите [процесс принятие и отправки коммитов и работе с линтером](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW) создайте файл log.ipynb и отправьте коммит как написано в пункте 7.2, а не как в видео через Github Desktop.
 
 - Если у вас есть локальный репозиторий на компьютере с вашими файлами, скопируйте ваши файлы из documents/github/ваш_репозиторий, в новый репозиторий Documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV
 
