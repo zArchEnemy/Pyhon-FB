@@ -146,6 +146,7 @@
 ---
 
 2. **Присоединитесь к команде**
+   - Примите приглашение https://github.com/settings/organizations
    - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/3602) с:
      - Вашим логином в Telegram
      - Ссылкой на ваш профиль GitHub
