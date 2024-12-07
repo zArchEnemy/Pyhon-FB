@@ -4,9 +4,7 @@
 
 <h1>Добро пожаловать в команду SENATOROVAI!</h1>
 
-- <p>Старые студенты сразу переходят <a href="#скачайте-репозиторий-на-свой-компьютер">к этому пункту</a>, при условии что предыдущие выполнены</p>
-
-- Выполни инструкцию ниже, если возникнут трудности смело пиши: https://t.me/c/1937296927/2415
+- Выполни инструкцию ниже, если возникнут трудности смело пиши: https://t.me/c/1937296927/3602
 
 ---
 
@@ -24,7 +22,6 @@
 
 ### Расскажи о себе, прошлый опыт, цель обучения, где живешь, лучше пиши на английском, коллеги англоязычные, русский их не родной,
    - Сообщение отправь сюда [Тык](https://t.me/c/1937296927/3181)
-
 ---
 
 ### Регистрация аккаунтов
@@ -113,14 +110,11 @@
       - Кнопка "vs code settings" ,для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="700px">
 
       - **Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)**
-      - Посмотрите [процесс принятие и отправки домашних заданий на гитхаб](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW)
-
 ---
 
 3. **Python (CPython)**
    - Скачайте с [CPython](https://github.com/python/cpython).
    - Следуйте руководству по установке для вашей платформы.
-   - Повторите видео [Интерпритатор Cpython и PYPY](https://youtu.be/ooLcXygrLnU)
 
 ---
 
@@ -165,15 +159,17 @@
 ![image](https://github.com/user-attachments/assets/99f05e36-f698-486a-8f95-50225043fb22)
    
 - Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
-4. **Клонируйте репозиторий, лучше конкретную ветку**
-   - Скачайте репозиторий на ваш локальный компьютер любым удобным способом. Рекоммендую Github Desktop
-  <img width="700px" alt="Screenshot 2024-11-27 at 4 01 19 AM" src="https://github.com/user-attachments/assets/51b74e3d-369b-46fa-be37-6f99c44bf587">
+4. **Клонируйте репозиторий**
+   - Скачайте репозиторий на ваш локальный компьютер, нажимаем code->open with Github Desktop
+
+<img width="300px" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/c3cda1c0-98ce-4c29-8ed9-4b3ecee34c06">
   
 
-4.1 **Клонирование конкретной ветки**
+4.1 **(опционально)Клонирование конкретной ветки**
 
-- откройте терминал/командную строку, перейдите в ваш репозиторий с помощью команды ``cd documents/github/``
+- откройте терминал/командную строку, перейдите в ваш репозиторий с помощью команды ``cd Documents/github/``
 - `` git clone --branch название-ветки https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV.git ``
+- ``cd Data-Science-For-Beginners-from-scratch-SENATOROV``
 - ``cursor .``
 
 5. **Переключите ветки**
@@ -206,9 +202,24 @@
 
     <img src="https://github.com/user-attachments/assets/10d94e1b-e7fa-44db-b82b-99674b837466" alt="Example" width="700px">
 
-7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ТОЛЬКО файлы и папки с домашней работой из documents/github/ваш_репозиторий, в новый репозиторий documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
+- Если у вас есть локальный репозиторий на компьютере с вашими файлами, скопируйте ваши файлы из documents/github/ваш_репозиторий, в новый репозиторий Documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV
 
-7.2 <a href="#commit-переходим-в-курсор-и-жмём-на-клиент-гита">Отправляем коммит</a> 
+7.1 Посмотрите [процесс принятие и отправки коммитов и работе с линтером](https://youtu.be/hW_7hodGxVU?si=tCEVs00xGt2q61eW) создайте файл log.ipynb и отправьте коммит как написано в пункте 7.2, а не как в видео через Github Desktop.
+
+7.2 Затрекайте свои временные изменения в коммит, нажмите "+" чтобы внести изменения в трекинг систему гит
+- Список Changes должен быть пустым
+<img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
+
+- Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
+<img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
+
+- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", отправьте коммит нажатием на кнопку **commit&sync**
+<img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
+
+- заходим в свой коммит:
+https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/ИМЯ-ВЕТКИ/,  ИМЯ-ВЕТКИ меняйте на ваш логин гитхаб, вставляете ссылку в url, и копируете ссылку на последний коммит
+![image](https://github.com/user-attachments/assets/484781f4-d994-49d1-a9da-b256f5589847)
+- присылаем ссылку на коммит сюда https://t.me/c/1937296927/4496
 
 8. **Ознакомиться с системой штрафов**
    - [Штрафы](https://t.me/c/1937296927/11810/11811)
@@ -222,8 +233,9 @@
 
 11. **Ознакомиться с отменой занятий**
    - [Отмена занятий](https://t.me/c/1937296927/26659/27648)
-12. **Ознакомиться с программой обучения**
-   - [Программа обучения](https://t.me/c/1937296927/10385/14516)
+12. **Программа обучения**
+   - Выбери [план обучения](https://t.me/c/1937296927/26659/29165)
+   - Ознакомься с [программой обучения](https://t.me/c/1937296927/10385/14516)
 13. **Важные анонсы крайте нежелательно пропускать**
    - [Критические уведомления](https://t.me/c/1937296927/26659)
 14. **Чат HomeWork**
@@ -234,18 +246,9 @@
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
    <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="700px">
    
-16. **Ответьте на квизы и пришлите пул реквест**
-   - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
-   - [pull requests](https://www.youtube.com/live/Fdhy4W4U4os)
-17. **Внимательно прочитайте инструкцию по  git**
-   - [git](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/git/intro_to_git.ipynb)
-18. **Приступите к практике по git**
-   - [git задание](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/11)
-   - [git course](https://learngitbranching.js.org/?locale=ru_RU)
-19. **Практика  Github**
-   - [КАК РЕШИТЬ любую ПРОБЛЕМУ связанную с OPENSOURCE](https://www.youtube.com/live/6U09wLPorYw)
-   - [Как искать информацию на Github и алгоритм решения неработающих плагинов VS CODE/Cursor](https://www.youtube.com/watch?v=-aCdtZ8qL24)
-
+16. **Обязательно сделайте все задания**
+   - => [Задания](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)    
+       
 ### ПОЗДРАВЛЯЮ! ВЫ ГОТОВЫ К ОБУЧЕНИЮ, Сообщите в  [чат](https://t.me/c/1937296927/4496) что сделали intro и я задам вам домашнюю работу.
 
 ---
@@ -272,16 +275,17 @@
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
 
 ### Commit (Переходим в курсор и жмём на клиент гита)
-  
-<img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
-
 - Затрекайте свои временные изменения в коммит, нажмите "+" чтобы внести изменения в трекинг систему гит
 - Список Changes должен быть пустым
+<img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
+
 - Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
-<img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">  
-<img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
+<img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
 
 - чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**, и потом делаем merge веток
+<img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
+
+
 
 <img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">    
 
