@@ -254,7 +254,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 
 ---
 
-1. ### **update branch**
+1. ### **update branch => способ через гитхаб**
    - Если в чате GitHub вас просят "обновите ветки/update branch", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
    - В title пул реквеста пишите ``update branch`` 
@@ -290,9 +290,11 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 - Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
 <img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
 
-- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**, и потом делаем merge веток
+- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**
 
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
+
+### **update branch => способ через VSCODE**
 
 - Приступаем к слиянию веток, внизу слева, должна быть написана **ваша ветка, которую вы создали**
 - Нажимаем 3 точки,  merge
