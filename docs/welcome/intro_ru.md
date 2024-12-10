@@ -279,7 +279,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 ---
 
 2. **Сложный конфликт**
-   
+- Сложные конфликты решаем в [VSCODE](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/edit/main/docs/welcome/intro_ru.md#%D0%BD%D0%B0%D0%B6%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%BD%D0%B0-%D0%B2%D0%BE%D1%81%D0%BA%D0%BB%D0%B8%D1%86%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D0%BA-%D0%B8-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC-%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82-%D0%B2%D1%80%D1%83%D1%87%D0%BD%D1%83%D1%8E)   
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
 
 ### Commit (Переходим в курсор и жмём на клиент гита)
@@ -308,7 +308,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
   
 ![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
 
-- Нажимаем на восклицательный знак и решаем конфликт вручную
+### Нажимаем на восклицательный знак и решаем конфликт вручную
 ![image](https://github.com/user-attachments/assets/b728df1e-e3a3-45b9-9a74-f8dec1bb54b3)
 
 
