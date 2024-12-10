@@ -262,7 +262,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - Нажимаем create pull requests 
    - Скролим в самый низ и нажимаем "merge pull requests"
    - Нажимаем confirm merge
-   - Сделай git pull
+   - Сделай [git pull](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/welcome/intro_ru.md#commit-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B8%D0%BC-%D0%B2-%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80-%D0%B8-%D0%B6%D0%BC%D1%91%D0%BC-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%B3%D0%B8%D1%82%D0%B0) 
    ### Resolve conflicts  
    - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
