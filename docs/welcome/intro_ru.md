@@ -259,7 +259,9 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
    - В title пул реквеста пишите ``update branch`` 
     ![image](https://github.com/user-attachments/assets/cf31394e-288f-4a53-9730-371585f08fe8)
-   - Скролим в самый низ и нажимаем зелёную кнопку "merge"
+   - Нажимаем create pull requests 
+   - Скролим в самый низ и нажимаем "merge pull requests"
+   - Нажимаем confirm merge
    ### Resolve conflicts  
    - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
