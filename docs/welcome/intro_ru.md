@@ -260,9 +260,13 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - В title пул реквеста пишите ``update branch`` 
     ![image](https://github.com/user-attachments/assets/cf31394e-288f-4a53-9730-371585f08fe8)
    - Нажимаем create pull requests 
-   - Скролим в самый низ и нажимаем "merge pull requests"
+   - Скролим в самый низ и нажимаем "merge pull requests", если там написано "conflict", то реши его согласно инструкции ниже.
    - Нажимаем confirm merge
-   - Сделай [git pull](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/welcome/intro_ru.md#commit-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B8%D0%BC-%D0%B2-%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80-%D0%B8-%D0%B6%D0%BC%D1%91%D0%BC-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%B3%D0%B8%D1%82%D0%B0) 
+   - Внимательно проверьте какие изменения были добавлены в вашу ветку
+    <img width="714" alt="Screenshot 2024-12-10 at 1 36 32 PM" src="https://github.com/user-attachments/assets/edd79787-1ab1-4eb6-9614-67318e31a389">
+    
+   - сделай [git pull](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/welcome/intro_ru.md#commit-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B8%D0%BC-%D0%B2-%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80-%D0%B8-%D0%B6%D0%BC%D1%91%D0%BC-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%B3%D0%B8%D1%82%D0%B0)
+     
    ### Resolve conflicts  
    - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
@@ -287,18 +291,21 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 <img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
 
 - чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**, и потом делаем merge веток
+
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
 
-
-
-<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">    
-
-- Внизу слева, должна быть написана **ваша ветка, которую вы создали**
+- Приступаем к слиянию веток, внизу слева, должна быть написана **ваша ветка, которую вы создали**
 - Нажимаем 3 точки,  merge
-
-![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
+  
+<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="500px">    
 
 - выбираем из какой ветки будем мержиться, нажимаем на **"origin/main remote branch"**, то есть с той ветки которая лежит на сайте гитхаб, а не ,main которая у вас на компе, поздравляю, вы успешно обновили ветку, но иногда надо устранять конфликты вручную, поэтому если это ваш случай, читайте дальше доку.
+  
+![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
+
+- Нажимаем на восклицательный знак и решаем конфликт вручную
+![image](https://github.com/user-attachments/assets/b728df1e-e3a3-45b9-9a74-f8dec1bb54b3)
+
 
 ![изображение](https://github.com/user-attachments/assets/89b59451-31e2-4f5a-8333-c7e093cf304f)
 
