@@ -260,7 +260,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - В title пул реквеста пишите ``update branch`` 
     ![image](https://github.com/user-attachments/assets/cf31394e-288f-4a53-9730-371585f08fe8)
    - Нажимаем create pull requests 
-   - Скролим в самый низ и нажимаем "merge pull requests", если там написано "conflict", то реши его согласно инструкции ниже.
+   - Скролим в самый низ и нажимаем "merge pull requests", если там написано "conflict", то [жми сюда](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/edit/main/docs/welcome/intro_ru.md#resolve-conflicts)
    - Нажимаем confirm merge
    - Внимательно проверьте какие изменения были добавлены в вашу ветку
     <img width="714" alt="Screenshot 2024-12-10 at 1 36 32 PM" src="https://github.com/user-attachments/assets/edd79787-1ab1-4eb6-9614-67318e31a389">
@@ -298,7 +298,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/9e491406-94c2-4ae5-95f3-ae270312dd20">
 
 ### **update branch => способ через VSCODE**
-
+- Отдайте [коммит](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/welcome/intro_ru.md#commit-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B8%D0%BC-%D0%B2-%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80-%D0%B8-%D0%B6%D0%BC%D1%91%D0%BC-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%B3%D0%B8%D1%82%D0%B0) 
 - Приступаем к слиянию веток, внизу слева, должна быть написана **ваша ветка, которую вы создали**
 - Нажимаем 3 точки,  merge
   
