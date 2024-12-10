@@ -294,6 +294,9 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
 
+- git pull
+<img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/9e491406-94c2-4ae5-95f3-ae270312dd20">
+
 ### **update branch => способ через VSCODE**
 
 - Приступаем к слиянию веток, внизу слева, должна быть написана **ваша ветка, которую вы создали**
