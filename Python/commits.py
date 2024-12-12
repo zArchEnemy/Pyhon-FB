@@ -41,6 +41,8 @@
 #
 # **6. Сделайте фиктивный коммит с типом test, добавляющий тесты для этой же функции.**
 #
+# - done: https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/9bc2679ea854bdda9c0654261933a60a6175675d
+#
 #
 
 #
