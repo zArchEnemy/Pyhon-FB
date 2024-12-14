@@ -2,9 +2,7 @@ name: SENATOROV
 on:
   push:
     branches:
-      - '**'
-    branches-ignore:
-      - 'refs/pull/**'  # Игнорируем пуши, связанные с PR
+      - "**"
       
   schedule:
     - cron: "0 0 * * *" # Run every day
