@@ -146,6 +146,7 @@
 ---
 
 2. **Присоединитесь к команде**
+   - Примите приглашение https://github.com/settings/organizations
    - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/3602) с:
      - Вашим логином в Telegram
      - Ссылкой на ваш профиль GitHub
@@ -221,11 +222,11 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 ![image](https://github.com/user-attachments/assets/484781f4-d994-49d1-a9da-b256f5589847)
 - присылаем ссылку на коммит сюда https://t.me/c/1937296927/4496
 
-8. **Ознакомиться с системой штрафов**
-   - [Штрафы](https://t.me/c/1937296927/11810/11811)
+8. **Ознакомиться с системой штрафов и бонусов**
+   - [Штрафы](https://t.me/c/1937296927/11810/11811) и [Бонусы](https://t.me/c/1937296927/25305/25306)
    
-9. **Ознакомиться с системой бонусов**
-   - [Бонусы](https://t.me/c/1937296927/25305/25306) 
+9. **Ознакомиться с системой дедлайнов**
+   - [дедлайны на домашние задания, можно посмотреть здесь](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/milestones)
 
 10. **Ознакомиться с системой помощи в комьюнити**
    - [Инструкция помощь](https://t.me/c/1937296927/2415/23729)
@@ -253,12 +254,19 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 
 ---
 
-1. ### **update branch**
+1. ### **update branch => способ через гитхаб**
    - Если в чате GitHub вас просят "обновите ветки/update branch", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
    - В title пул реквеста пишите ``update branch`` 
     ![image](https://github.com/user-attachments/assets/cf31394e-288f-4a53-9730-371585f08fe8)
-   - Скролим в самый низ и нажимаем зелёную кнопку "merge"
+   - Нажимаем create pull requests 
+   - Скролим в самый низ и нажимаем "merge pull requests", если там написано "conflict", то [жми сюда](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/edit/main/docs/welcome/intro_ru.md#resolve-conflicts)
+   - Нажимаем confirm merge
+   - Внимательно проверьте какие изменения были добавлены в вашу ветку
+    <img width="714" alt="Screenshot 2024-12-10 at 1 36 32 PM" src="https://github.com/user-attachments/assets/edd79787-1ab1-4eb6-9614-67318e31a389">
+    
+   - сделай [git pull](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/welcome/intro_ru.md#commit-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B8%D0%BC-%D0%B2-%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80-%D0%B8-%D0%B6%D0%BC%D1%91%D0%BC-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%B3%D0%B8%D1%82%D0%B0)
+     
    ### Resolve conflicts  
    - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
@@ -271,7 +279,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 ---
 
 2. **Сложный конфликт**
-   
+- Сложные конфликты решаем в [VSCODE](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/edit/main/docs/welcome/intro_ru.md#%D0%BD%D0%B0%D0%B6%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%BD%D0%B0-%D0%B2%D0%BE%D1%81%D0%BA%D0%BB%D0%B8%D1%86%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D0%BA-%D0%B8-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC-%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82-%D0%B2%D1%80%D1%83%D1%87%D0%BD%D1%83%D1%8E)   
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
 
 ### Commit (Переходим в курсор и жмём на клиент гита)
@@ -282,19 +290,27 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
 - Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
 <img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
 
-- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**, и потом делаем merge веток
+- чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**
+
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
 
+- git pull
+<img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/9e491406-94c2-4ae5-95f3-ae270312dd20">
 
-
-<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">    
-
-- Внизу слева, должна быть написана **ваша ветка, которую вы создали**
+### **update branch => способ через VSCODE**
+- Отдайте [коммит](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/docs/welcome/intro_ru.md#commit-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B8%D0%BC-%D0%B2-%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80-%D0%B8-%D0%B6%D0%BC%D1%91%D0%BC-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%B3%D0%B8%D1%82%D0%B0) 
+- Приступаем к слиянию веток, внизу слева, должна быть написана **ваша ветка, которую вы создали**
 - Нажимаем 3 точки,  merge
-
-![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
+  
+<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="500px">    
 
 - выбираем из какой ветки будем мержиться, нажимаем на **"origin/main remote branch"**, то есть с той ветки которая лежит на сайте гитхаб, а не ,main которая у вас на компе, поздравляю, вы успешно обновили ветку, но иногда надо устранять конфликты вручную, поэтому если это ваш случай, читайте дальше доку.
+  
+![изображение](https://github.com/user-attachments/assets/43b1620f-86c6-4679-a4b7-e37d31eeeba4)
+
+### Нажимаем на восклицательный знак и решаем конфликт вручную
+![image](https://github.com/user-attachments/assets/b728df1e-e3a3-45b9-9a74-f8dec1bb54b3)
+
 
 ![изображение](https://github.com/user-attachments/assets/89b59451-31e2-4f5a-8333-c7e093cf304f)
 

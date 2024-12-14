@@ -1,3 +1,4 @@
+
 ## Math
   * Probability
     * [Independent Events Problems](Math/probability/independent_events_problems.ipynb)
@@ -46,4 +47,3 @@
 ## [Log](/log.ipynb)
 
 ## [Log](/log.py)
->>>>>>> 3f7bc11 (copy all files from the previous repo)
