@@ -7,13 +7,13 @@ on:
     branches:
       - "**"
  
-  # schedule:
-  #   - cron: "0 0 * * *" # Run every day
-  # workflow_dispatch:
-  # create:
-  # delete:
-  # release:
-  # issues:
+  schedule:
+    - cron: "0 0 * * *" # Run every day
+  workflow_dispatch:
+  create:
+  delete:
+  release:
+  issues:
  
 
 jobs:
