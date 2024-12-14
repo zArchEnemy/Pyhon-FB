@@ -7,15 +7,15 @@ on:
   pull_request:
     branches:
       - "**"
-  schedule:
-    - cron: "0 0 * * *" # Run every day
-  workflow_dispatch:
-  create:
-  delete:
-  release:
-  issues:
-  pull_request_review:
-  pull_request_review_comment:
+  # schedule:
+  #   - cron: "0 0 * * *" # Run every day
+  # workflow_dispatch:
+  # create:
+  # delete:
+  # release:
+  # issues:
+  # pull_request_review:
+  # pull_request_review_comment:
 
 jobs:
   black:
