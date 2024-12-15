@@ -14,7 +14,7 @@
 8) Присылаем ссылку на ваш пул реквест в комментарии сюда
 9) Вставляете себе в ПОРТФОЛИО информацию что вы контребьютели в SENATOROVAI и пишете эту ссылку
 https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/graphs/contributors
-  
+10) ПОЗДРАВЛЯЮ! ВЫ КОНТРЕБЬЮТОР!  
 
 
 ### Contribute to SENATOROVAI https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/contribute
