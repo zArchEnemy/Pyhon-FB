@@ -6,6 +6,7 @@
 4) Нажимаем на карандаш
 - ![image](https://github.com/user-attachments/assets/2f8d20a8-6e0d-425f-bf82-64d3433c9215)
 5) Вносим ваше имя в формате ``[ИМЯ](ССЫЛКА_НА_АККАУНТ)``
+- ![image](https://github.com/user-attachments/assets/6c851ff5-adf6-4f8b-ba8e-0ade26b9755e)
 6) Сохраняем коммит
 - ![image](https://github.com/user-attachments/assets/82fe5611-1ad9-40b5-a809-6cdf98ea8b2d)
 7) Открываем пул реквест
