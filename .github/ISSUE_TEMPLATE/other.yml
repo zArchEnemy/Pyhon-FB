@@ -13,5 +13,3 @@ body:
 
   - type: textarea
     id: extrainfo
-    validations:
-      required: false
