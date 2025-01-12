@@ -6,8 +6,9 @@ body:
   - type: textarea
     id: extrainfo
     attributes:
-      label: Additional Information
+      label: Information
       description: Is there anything else we should know about this issue?
     validations:
       required: false
-use_blank_issues_enabled: true
+
+
