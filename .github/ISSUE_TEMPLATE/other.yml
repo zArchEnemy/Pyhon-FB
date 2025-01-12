@@ -6,7 +6,8 @@ body:
   - type: textarea
     id: extrainfo
     attributes:
-      label: [' ']
+      label: Additional Information
       description: Is there anything else we should know about this issue?
     validations:
       required: false
+use_blank_issues_enabled: true
