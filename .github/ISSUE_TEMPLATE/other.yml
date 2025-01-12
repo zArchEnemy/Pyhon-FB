@@ -2,4 +2,6 @@ name: Question
 title: "[QUESTION]"
 description: Use this for any other issues. PLEASE do not create blank issues
 labels: ["question"]
+body: |
+  <!-- Write your issue details here -->
 
