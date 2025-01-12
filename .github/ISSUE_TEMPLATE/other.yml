@@ -13,7 +13,8 @@ body:
 
   - type: textarea
     id: extrainfo
-    attributes:
-      description: Is there anything else we should know about this issue?
-    validations:
-      required: false
+    # attributes:
+    #   label: What would you like to share?
+    #   description: Is there anything else we should know about this issue?
+    # validations:
+    #   required: false
